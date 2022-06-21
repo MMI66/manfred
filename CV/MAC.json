@@ -686,6 +686,35 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AWS Partner: Accreditation (Technical)",
+        "startDate": "2021-02-01",
+        "institution": {
+          "name": "AWS Technical Accredited",
+          "description": "Earners of this badge are AWS Partners who have developed fundamental, technical knowledge of AWS cloud computing, global infrastructure, services, solutions, migration and security.",
+          "URL": "https://www.credly.com/badges/02add99c-25ce-4921-9806-c00d72275fe9",
+          "image": {
+            "alt": "aws-partner-accreditation-technical.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/f9067019-0411-42aa-9436-948bb599cd38_aws-partner-accredit.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "SW25x: Global Health: Case Studies from a Biosocial Perspective",
         "startDate": "2013-12-01",
