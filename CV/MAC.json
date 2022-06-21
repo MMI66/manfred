@@ -324,6 +324,82 @@
       },
       {
         "organization": {
+          "name": "M-Brain Group",
+          "image": {
+            "alt": "20201302_mbrain_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/f28bc95a-3fdc-4cb7-aa13-560cd73ef5da_20201302_mbrain_logo.png"
+          },
+          "URL": "https://www.m-brain.com/"
+        },
+        "roles": [
+          {
+            "name": "Consultor Independiente Proyectos de Investigación",
+            "startDate": "2014-06-01",
+            "finishDate": "2015-08-01",
+            "challenges": [
+              {
+                "description": "Categoría: Investigación de Mercado, ERP, CRM, Business Intelligence\nPerfil: Consultor Independiente Proyectos de Investigación\nDesarrollo de Proyectos de Investigación en mercado Internacional de Divisas y Materias Primas (Metales Preciosos,\nPetróleo y Gas. Trigo). Industria Biotecnológica y Farmacéutica.\nPlanificación de hipótesis, estrategias y análisis de Big data con todas las bases de datos.\nGlobal Intelligence Alliance ahora M- Brain.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Abstract",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdManager",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdWords",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Apps Script",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Earth Engine",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "Google Optimize",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Google España",
           "image": {
             "alt": "google-logo.svg",
