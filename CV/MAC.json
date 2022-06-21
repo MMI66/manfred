@@ -424,6 +424,34 @@
       },
       {
         "organization": {
+          "name": "Instituto Llorente",
+          "image": {
+            "alt": "20201203_ill_logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/12e7b0c3-9eea-4927-b845-1ba29589ddbc_20201203_ill_logo.jpg"
+          },
+          "URL": "https://www.linkedin.com/in/mag-mi/details/experience/"
+        },
+        "roles": [
+          {
+            "name": "Delegado Comercial",
+            "startDate": "1992-07-01",
+            "finishDate": "1992-11-01",
+            "challenges": [
+              {
+                "description": "Instituto Llorente Extinguido desde 1997. \nPromoción y venta de vacunas y medicamentos de prescripción a Médicos de Familia y Especialistas en: Medicina Interna,\nUrología, Aparato Digestivo, Virología, Inmunología, Farmacia y Junta Hospitalaria. Mayoristas farmacéuticos y Titulares de\nOficinas de Farmacia.\nAsistencia a Eventos de Macromarketing y Congreso Médicos Internacionales y Nacionales.\nAsistencia a Eventos de Micromarketing y Congresos Médicos Regionales.\nAsistencia a Publicaciones Médicas.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Procter & Gamble",
           "image": {
             "alt": "20201203_pg_logo.jpg",
