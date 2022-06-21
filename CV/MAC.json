@@ -396,6 +396,78 @@
       },
       {
         "organization": {
+          "name": "3Lemon Health",
+          "image": {
+            "alt": "20201203_3lemon_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/f1d59f18-b9ab-473d-becf-d8c31f764b16_20201203_3lemon_logo.png"
+          },
+          "URL": "https://www.3lemon.com/"
+        },
+        "roles": [
+          {
+            "name": "Socio fundador y director",
+            "startDate": "2009-04-01",
+            "finishDate": "2011-09-01",
+            "challenges": [
+              {
+                "description": "Perfil: Socio fundador y director de 3Lemon Health\nReputación médica en línea y redes sociales.\nSalud y Marketing Farmacéutico.\nEducación Médica Continuada.\nInformación Médica.\nehealth - Historia clínica en Red.\nAsistencia a Congresos Médicos y Eventos de Macromarketing.\nAsistencia a Congresos Médicos y eventos de Micromarketing.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Creative Suite",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe InDesign",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Canva",
+                "type": "technology"
+              },
+              {
+                "name": "Dreamweaver",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdWords",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Linkedin Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Laboratorios Salvat",
           "image": {
             "alt": "20201203_salvat_logo.png",
