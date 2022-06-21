@@ -324,6 +324,114 @@
       },
       {
         "organization": {
+          "name": "Google España",
+          "image": {
+            "alt": "google-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/921f0b66-355d-444f-ba84-09dd7ce41d13_google-logo.svg"
+          },
+          "URL": "https://about.google/products/#all-products"
+        },
+        "roles": [
+          {
+            "name": "Miembro de Comunidad Google España asociado a MAG Market Intelligence",
+            "startDate": "2013-12-01",
+            "finishDate": "2018-10-01",
+            "challenges": [
+              {
+                "description": "Categoría: Investigación de Mercado, ERP, CRM, Business Intelligence\nPerfil: Miembro Comunidad Google España asociado a MAG Market Intelligence\nAsociado como empresa a nombre de MAG Market Intelligence. Desarrollo de marca propia, aumento de tráfico en el sitio\nweb, interfaz para el usuario de los ingresos de publicidad web. Desarrollo de estrategias de marca y sistemas estadísticos.\nAsociado como persona individual a nombre propio de Marco Antonio González. Desarrollo de marca propia, aumento de\ntráfico en el sitio web, interfaz para el usuario de los ingresos de publicidad web. Desarrollo de estrategias de marca y\nsistemas estadísticos\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Abstract",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Canva",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdManager",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdWords",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Apps Script",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Earth Engine",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "Google Optimize",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hootsuite",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Dukascopy Bank",
           "image": {
             "alt": "20201203_dukascopy_logo.png",
