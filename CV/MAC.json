@@ -421,6 +421,34 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "FAES FARMA",
+          "image": {
+            "alt": "20201203_faes_farma.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/8dd98851-614b-4192-9bb0-898d59e195c9_20201203_faes_farma.png"
+          },
+          "URL": "https://faesfarma.com/"
+        },
+        "roles": [
+          {
+            "name": "Delegado Comercial",
+            "startDate": "1989-11-01",
+            "finishDate": "1990-10-01",
+            "challenges": [
+              {
+                "description": "Promoción y venta de medicamentos de prescripción a Médicos de Familia y Especialistas en: Cardiología, Medicina\nInterna, Urología, Aparato Digestivo, Dermatología, Farmacia y Junta Hospitalaria. Mayoristas farmacéuticos y Titulares de\nOficinas de Farmacia.\nAsistencia a Eventos de Macromarketing y Congreso Médicos Internacionales y Nacionales.\nAsistencia a Eventos de Micromarketing y Congresos Médicos Regionales.\nAsistencia a Publicaciones Médicas.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
