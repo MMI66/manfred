@@ -396,6 +396,34 @@
       },
       {
         "organization": {
+          "name": "fisher scientific",
+          "image": {
+            "alt": "20201203_fs_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/da85aa40-4726-4918-a54c-0d5edf79c048_20201203_fs_logo.png"
+          },
+          "URL": "https://www.fishersci.es/es/es/home.html"
+        },
+        "roles": [
+          {
+            "name": "Delegado Comercial",
+            "startDate": "1996-11-01",
+            "finishDate": "1997-10-01",
+            "challenges": [
+              {
+                "description": "Promoción y venta de Instrumentación Científica con Hucoa- Erlöss / Fisher Scientific y Eppendorf. Técnicas Quirúrgicas,\ninstrumental Quirúrgico y Prótesis de Traumatología a Especialistas en: Laboratorios Análisis Clínicos, Traumatología,\nFarmacia y Junta Hospitalaria. Mayoristas.\nAsistencia a Eventos de Macromarketing y Congreso Médicos Internacionales y Nacionales.\nAsistencia a Eventos de Micromarketing y Congresos Médicos Regionales.\nAsistencia a Publicaciones Médicas.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Laboratorio Tecnobío de Almirall",
           "image": {
             "alt": "20201203_almirall_logo.png",
