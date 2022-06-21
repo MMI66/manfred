@@ -716,6 +716,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Directrices de planificación operativa para la COVID-19 y  plataforma de los asociados para apoyar la preparación y la  respuesta de los países ante la COVID-19",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "Directrices de planificación operativa para la COVID-19 y \nplataforma de los asociados para apoyar la preparación y la \nrespuesta de los países ante la COVID-1",
+          "URL": "https://openwho.org/dashboard/documents",
+          "image": {
+            "alt": "UNCT-COVID19-preparacion-y-respuesta-ES_open_badge_tx.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/61b4eac8-1457-48cd-adc5-f3f477db489c_unct-covid19-prepara.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SW25x: Global Health: Case Studies from a Biosocial Perspective",
         "startDate": "2013-12-01",
         "finishDate": "2014-05-01",
