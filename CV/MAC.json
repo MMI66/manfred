@@ -1,0 +1,798 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marco Antonio",
+      "surnames": "González",
+      "title": "En plana reconversión a mis 55 años con 33 de experiencia laboral acumulada",
+      "description": "15 años como trabajador directo de la \nindustria farmacéutica en diferentes roles \ny 18 años como consultor independiente \npara la industria farmacéutica y el entorno sanitario, son un total de 33 años de \ndesarrollo laboral con grandes aciertos y \ngrandes equivocaciones, en una evolución \nconstante para afrontar los próximos 11 \naños, que pienso que son los mejores; por \nel enorme avance tecnológico en el que \nestamos inmersos basados en la Cuarta \nRevolución Industrial y en la Inteligencia \nArtificial con el fin de \"proteger la vida\".\nDefinición exacta de mi vida, de mi visión \ny de mi misión como respuesta en un \nproceso de selección.\nSe ha producido de forma evolutiva, darwiniana, nunca fue una vocación clara y \ntiene su razón; las disciplinas o materias \nen las que he trabajado y una visión abstracta en el espacio/tiempo para vincular \nlos conocimientos acumulados.\nDesde mi deseo de juventud de ir a la \nEscuela Naval Militar, pasando por mi \nincorporación a la Industria Farmacéutica \nhasta llegar al actual desarrollo de Inteligencia Artificial ha sido un largo camino \nen que el concepto \"Inteligencia\" es la \nestructura que soporta toda mi vida.\nLa Pandemia del SARS-CoV-2 me dado la \nrazón (por desgracia) y he pagado un duro \npeaje a nivel personal y familiar.",
+      "avatar": {
+        "alt": "yo_despacho.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/d2040cc6-342b-4580-93aa-bfb74dbae66a_yo_despacho.jpg"
+      },
+      "location": {
+        "notes": "En la playa de Vilafortuny, en Cambrils."
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/MMI66"
+      },
+      {
+        "type": "other",
+        "URL": "https://magmarketintelligence.com/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/mag_intel"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.credly.com/badges/02add99c-25ce-4921-9806-c00d72275fe9"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mag-mi"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.linkedin.com/in/mag-mi"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Tengo una visión estratégica, me interesa implementar el concepto de inteligencia y estoy feliz con la cuarta revolución industrial que vivimos con la IA.",
+        "fact": "Autor del eBook Estrategia Cero con el COVID-19: Guerra al SARS-CoV-2. Con un virus no se puede convivir.\nConsultor Alliance Lead AWS Partner Network para Entorno Sanitario en Amazon Web Services (AWS).\nData Scientist\nDigital Membership in Strategic Intelligence of World Economic Forum."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "MAG Market Intelligence",
+        "type": "other",
+        "URL": "https://magmarketintelligence.com/",
+        "authors": [
+          {
+            "name": "Marco",
+            "surnames": "Antonio González",
+            "title": "Author"
+          }
+        ],
+        "summary": "Agencia Experta en Marketing en el Entorno Sanitario\n\nDigital Membership Strategic Intelligence of World Economic Forum\n\n+ de 30 años de experiencia al servicio de la clínica diaria en el Entorno Sanitario"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "World Economic Forum",
+          "image": {
+            "alt": "20201211_vacunación_mapa.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/2c87bd59-ff2e-4df9-b5a3-b188bfbf571b_20201211_vacunacion_.png"
+          },
+          "URL": "https://intelligence.weforum.org/"
+        },
+        "roles": [
+          {
+            "name": "Digital Membership Strategic Intelligence",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": " Networking Inteligencia estratégica para Entorno Sanitario.\nCreación Mapas Dinámicos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MAG Market intelligence",
+          "image": {
+            "alt": "20201030_logo_para_google_my_business.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/05a54c93-1ba7-4f92-a41b-cf99ee22f020_20201030_logo_para_g.png"
+          },
+          "URL": "https://magmarketintelligence.com/"
+        },
+        "roles": [
+          {
+            "name": "AWS Partner Network",
+            "startDate": "2021-02-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Consultor Alliance Lead para Entorno Sanitario\n· Creación “Ad Hoc” de la infraestructura Cloud para Entorno Sanitario y Ciencias de la Salud"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS-Admin",
+                "type": "technology"
+              },
+              {
+                "name": "AWS-User",
+                "type": "technology"
+              },
+              {
+                "name": "Alexa Skills",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "World Economic Forum",
+          "image": {
+            "alt": "20201211_covid19_mapa.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/471f8729-22b9-439a-8f7f-05b98e7b21a6_20201211_covid19_map.png"
+          },
+          "URL": "https://intelligence.weforum.org/"
+        },
+        "roles": [
+          {
+            "name": "Digital Membership Strategic Intelligence",
+            "startDate": "2020-02-01",
+            "finishDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "· Networking Inteligencia estratégica para Entorno Sanitario\nCreación Mapas Dinámicos"
+              }
+            ],
+            "competences": [
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Dukascopy Bank",
+          "image": {
+            "alt": "20201203_dukascopy_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/7a6edbdf-2970-41a0-9e75-7f84540e8343_20201203_dukascopy_l.png"
+          },
+          "URL": "https://www.dukascopy.com/swiss/spanish/forex/wealth-management/lp-pamm/"
+        },
+        "roles": [
+          {
+            "name": "External Manager PAMM Account",
+            "startDate": "2018-03-01",
+            "finishDate": "2019-06-01",
+            "challenges": [
+              {
+                "description": "· Dirección Comercial Cuenta PAMM robotizada sobre EUR/USD - XAU/USD y XAG/USD"
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MAG Market Intelligence",
+          "image": {
+            "alt": "20201030_logo_para_google_my_business.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/db433fd8-c30d-47af-91f1-9b3d8d25e1b8_20201030_logo_para_g.png"
+          },
+          "URL": "https://magmarketintelligence.com/"
+        },
+        "roles": [
+          {
+            "name": "CEO",
+            "startDate": "2015-02-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "· Agencia Digital Experta en Inteligencia Entorno Sanitario\n· Cloud y desarrollos “ad hoc” para investigadores\n· Autor del Ebook Estrategia Cero con el COVID19"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS-Admin",
+                "type": "technology"
+              },
+              {
+                "name": "AWS-User",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Batch",
+                "type": "technology"
+              },
+              {
+                "name": "Canva",
+                "type": "technology"
+              },
+              {
+                "name": "Citrix",
+                "type": "technology"
+              },
+              {
+                "name": "Cloudwatch",
+                "type": "technology"
+              },
+              {
+                "name": "CosmosDB",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "Dreamweaver",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Dukascopy Bank",
+          "image": {
+            "alt": "20201203_dukascopy_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/711c8213-4813-4379-82f8-cf1197482c92_20201203_dukascopy_l.png"
+          },
+          "URL": "https://www.dukascopy.com/swiss/spanish/forex/trading/"
+        },
+        "roles": [
+          {
+            "name": "Agente Introductorio IAID 9009",
+            "startDate": "2012-09-01",
+            "finishDate": "2014-09-01",
+            "challenges": [
+              {
+                "description": "· Agente Introductorio a Plataforma de Mercado JForex en el Mercado Internacional de Divisas en pares \nmayores, metales preciosos XAU/USD , XAG/USD y análisis fundamental Industria Farmacéutica.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "eHBM Inteligencia de Mercados",
+          "image": {
+            "alt": "20201203_ehbm_logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/64883096-aea7-49c0-be37-8f4265d2aae0_20201203_ehbm_logo.jpg"
+          },
+          "URL": "https://www.youtube.com/watch?v=gwITlpFNsnI"
+        },
+        "roles": [
+          {
+            "name": "Socio Fundador e",
+            "startDate": "2010-10-01",
+            "finishDate": "2015-08-01",
+            "challenges": [
+              {
+                "description": "·Desarrollo de estrategias y análisis de sistemas estadísticos para Big Data. Planificación de hipótesis \n· Comercio manual y algorítmico en Metales Preciosos XAU/USD - XAG/USD - CHF/USD - OIL & Gas -\nWheat y Análisis Fundamental en Selección Index de Industria Farmacéutica y Biotech.\n· Club de Inversión"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "BI",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Laboratorio Tecnobío de Almirall",
+          "image": {
+            "alt": "20201203_almirall_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/f79f87db-bd46-4f77-8ab4-9898970f561d_20201203_almirall_lo.png"
+          },
+          "URL": "https://www.almirall.es/"
+        },
+        "roles": [
+          {
+            "name": "Delegado Comercial",
+            "startDate": "1992-11-01",
+            "finishDate": "1995-07-01",
+            "challenges": [
+              {
+                "description": "Promoción y venta de medicamentos de prescripción a Médicos de Familia y Especialistas en: Psiquiatría, Cardiología,\nMedicina Interna, Urología, Aparato Digestivo, Dermatología, Farmacia y Junta Hospitalaria. Mayoristas farmacéuticos y\nTitulares de Oficinas de Farmacia.\nAsistencia a Eventos de Macromarketing y Congreso Médicos Internacionales y Nacionales.\nAsistencia a Eventos de Micromarketing y Congresos Médicos Regionales.\nAsistencia a Publicaciones Médicas.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Route66foresearchers.cloud",
+          "description": "Route66forResearchers pasa de acceso público a acceso interno. Tras año y medio de trabajo y acceso público, por las diferentes necesidades de programación; pasa al acceso interno del Cloud con el objetivo \"El paciente y la mejora de su estado de salud es el Fin\", siendo los investigadores el centro.",
+          "URL": "https://www.linkedin.com/showcase/route66foresearchers-cloud/about/?viewAsMember=true",
+          "image": {
+            "alt": "202221_logo_route66foresearchres_cloud.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/79ed4c82-f8c7-47a4-aa0b-2332902a21dc_202221_logo_route66f.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-02-01",
+            "finishDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MAG Market Intelligence",
+          "description": "Agencia Experta en Marketing en el Entorno Sanitario",
+          "URL": "https://magmarketintelligence.com/",
+          "image": {
+            "alt": "20201030_logo_para_google_my_business.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/ebed8d51-74c5-4556-804d-cb00f83557be_20201030_logo_para_g.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-02-01",
+            "finishDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "COVID-19 A Multidisciplinary Vision",
+          "description": "The SARS-CoV-2 (COVID-19) Pandemic must be approached under a multidisciplinary health vision for a\nperfect understanding of the global health problem it generates.\nThe virus and the pathologies it causes, the use of medical biotechnology for the rapid development of\neffective and safe vaccines, the resolution of the logistical problem of production and distribution, the\npublic policies of governance of the Pandemic and the response of the health authorities are the basis for\ndesigning a dynamic map that helps us understand what we are up against and draw a symmetric\nsolution",
+          "URL": "https://intelligence.weforum.org/",
+          "image": {
+            "alt": "20210210_covid19_a-multidisciplinary_vision.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/b1b8f6fa-d147-40f8-84bf-2fc418bfe5fb_20210210_covid19_a-m.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2021-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Strategic Intelligence"
+        ]
+      },
+      {
+        "details": {
+          "name": "Biotechnology",
+          "description": "Medical biotechnology is personalizing medicine by keying on our individual biology, industrial\nbiotechnology is being used to develop more eco-friendly ways of building things, agricultural\nbiotechnology can help feed an expanding global population, and synthetic biology is helping to\nsustainably produce essential chemicals and materials. Meanwhile environmental biotechnology may yet\nsolve the vexing problem of plastic pollution. However, while recent biotechnology-related advances have\nopened up incredible new possibilities, they have also created significant ethical issues - as society\ngrapples with concepts like gene-edited babies.\nThis briefing is based on the views of a wide range of experts from the World Economic Forum’s Expert\nNetwork and is curated in partnership with Dr. Sang Yup Lee, Distinguished Professor, Department of\nChemical and Biomolecular Engineering, Korea Advanced Institute of Science and Technology (KAIST),\nand colleagues.\n",
+          "URL": "https://intelligence.weforum.org/",
+          "image": {
+            "alt": "20210210_biotechnology.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/4ddc3741-be85-40bd-b1bb-e5777820dbd8_20210210_biotechnolo.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2021-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Strategic Intelligence"
+        ]
+      },
+      {
+        "details": {
+          "name": "Route66foresearchers.cloud",
+          "description": "Route66forResearchers pasa de acceso público a acceso interno. Tras año y medio de trabajo y acceso público, por las diferentes necesidades de programación; pasa al acceso interno del Cloud con el objetivo \"El paciente y la mejora de su estado de salud es el Fin\", siendo los investigadores el centro.",
+          "URL": "https://www.youtube.com/watch?v=NXyJBoK3l2c",
+          "image": {
+            "alt": "202221_logo_route66foresearchres_cloud.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/9ab3e04b-d19c-4d29-a039-2d0f15ccabd9_202221_logo_route66f.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2020-02-01",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Empresa"
+        ]
+      },
+      {
+        "details": {
+          "name": "Six basic sectors for Progress",
+          "description": "This is the base map, there are six strategic sectors from which to develop maps in neural structure.\n1st Finance / investment as a new model of speculation to obtain wealth to be used in the common\ngood.\n2nd Health and 3rd Dissemination of knowledge from the new approaches in biotechnology and DNA for\nthe eradication of diseases, global health treatment on the increase of life expectancy.\n4th Biotechnological agriculture and water treatment / purification as necessary bases for food and\nhuman survival.\n5th Energy geopolitics on fossil fuels, alternative and ecological energies as well as new energy sources.\n6º Geopolitical dynamics as a global interrelation.\n",
+          "URL": "https://intelligence.weforum.org/",
+          "image": {
+            "alt": "20201211_seis_sectores_basicos_para_el_progreso.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/42e3fbd6-255a-4e7b-b47e-296d68e2c7cd_20201211_seis_sector.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2020-01-01",
+        "relatedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Strategic Intelligence"
+        ]
+      },
+      {
+        "details": {
+          "name": "MAG Market Intelligence",
+          "description": "Agencia Experta en Marketing en el Entorno Sanitario\n\nDigital Membership Strategic Intelligence of World Economic Forum\n\n+ de 30 años de experiencia al servicio de la clínica diaria en el Entorno Sanitario",
+          "URL": "https://magmarketintelligence.com/",
+          "image": {
+            "alt": "20201030_logo_para_google_my_business.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/59bee6d3-a0a5-4b43-bab0-c44bffc2bb29_20201030_logo_para_g.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2015-02-01",
+        "relatedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Empresa"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS-Admin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS-User",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Amazon SQS",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "SW25x: Global Health: Case Studies from a Biosocial Perspective",
+        "startDate": "2013-12-01",
+        "finishDate": "2014-05-01",
+        "institution": {
+          "name": "edX HarvardX",
+          "description": "Casos de estudio de salud en diferentes partes del mundo.",
+          "URL": "https://www.edx.org/search?subject=Medicine&partner=Harvard+University",
+          "image": {
+            "alt": "20140528_sw25x_harvardx_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/a036415e-d0f7-4638-9458-f5f1da8d1d32_20140528_sw25x_harva.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificado asistencia 15º Reunión Nacional de la Sociedad Española de Hipertensión Liga Española para la Lucha contra la Hipertensión Arterial",
+        "startDate": "2010-03-01",
+        "finishDate": "2010-03-01",
+        "institution": {
+          "name": "Sociedad Española de Hipertensión Liga Española para la Lucha contra la Hipertensión Arterial",
+          "description": "ha asistido a las Sesiones Científicas de la 15ª Reunión Nacional de Ia Sociedad Española de Hipertensión Liga Española para la Lucha contra la Hipertensión Arterial\ncelebrada en Zaragoza, del 9 al 12 de marzo de 2010 \n\n(33,6 horas lectivas) ",
+          "URL": "http://seh-lelha.org/categoria/reuniones-seh-lelha/",
+          "image": {
+            "alt": "20100312_sehlelha.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/6326d9bb-e306-466a-b0b2-ea2ce8aebcbf_20100312_sehlelha.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/mag-mi"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "AWS-Admin",
+          "type": "technology"
+        },
+        {
+          "name": "AWS-User",
+          "type": "technology"
+        },
+        {
+          "name": "Amazon SQS",
+          "type": "technology"
+        },
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "Android SDK",
+          "type": "technology"
+        },
+        {
+          "name": "Android Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Azure Functions",
+          "type": "technology"
+        },
+        {
+          "name": "Google Analytics",
+          "type": "technology"
+        },
+        {
+          "name": "Google Data Studio",
+          "type": "technology"
+        },
+        {
+          "name": "IBM Watson",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "MacOS",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
