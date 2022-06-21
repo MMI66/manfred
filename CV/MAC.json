@@ -396,6 +396,34 @@
       },
       {
         "organization": {
+          "name": "Laboratorios Salvat",
+          "image": {
+            "alt": "20201203_salvat_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/f451318d-436b-4210-9fe5-a27d743031ad_20201203_salvat_logo.png"
+          },
+          "URL": "https://svt.com/"
+        },
+        "roles": [
+          {
+            "name": "Delegado Comercial",
+            "startDate": "2000-03-01",
+            "finishDate": "2004-08-01",
+            "challenges": [
+              {
+                "description": "Perfil: Delegado Científico Laboratorios SALVAT\nPromoción y venta de medicamentos de prescripción a Médicos de Familia y Especialistas en: Psiquiatría, Cardiología,\nMedicina Interna, Urología, Aparato Digestivo, Dermatología, Farmacia y Junta Hospitalaria. Mayoristas farmacéuticos y\nTitulares de Oficinas de Farmacia.\nAsistencia a Eventos de Macromarketing y Congreso Médicos Internacionales y Nacionales.\nAsistencia a Eventos de Micromarketing y Congresos Médicos Regionales.\nAsistencia a Publicaciones Médicas.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Laboratorios Menarini",
           "image": {
             "alt": "20201203_menarini_logo.jpg",
