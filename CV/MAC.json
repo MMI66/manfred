@@ -1366,6 +1366,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Data and Health Indicators in Public Health Practice",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "Epidemiology is often described as the cornerstone science in public health. Epidemiology in public health practice uses study design and analyses to identify causes in an outbreak situation, guides interventions to improve population health, and evaluates programs and policies.\n\nIn this course, we'll define the role of the professional epidemiologist as it relates to public health services, functions, and competencies. With that foundation in mind, we'll introduce you to the problem solving methodology and demonstrate how it can be used in a wide variety of settings to identify problems, propose solutions, and evaluate interventions. This methodology depends on the use of reliable data, so we'll take a deep dive into the routine and public health data systems that lie at the heart of epidemiology and then conclude with how you can use that data to calculate measures of disease burden in populations.",
+          "URL": "https://es.coursera.org/learn/data-public-health?=",
+          "image": {
+            "alt": "20210910_data_health_indicators_public-healt_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/4ba0f466-d960-4411-ac73-6e49c86fbf53_20210910_data_health.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
