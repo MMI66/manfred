@@ -1894,6 +1894,76 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Cloud Computing (40 h)",
+        "startDate": "2020-09-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "Google Actívate",
+          "description": "Cloud Computing\nIntroducción: qué es la nube, ventajas e inconvenientes\nCómo se organiza la nube: desde la infraestructura hasta el software\nSeguridad en Cloud\ninnovación y transformación desde el usuario\nQué necesitan y qué buscan las empresas\nCasos de uso\nConclusiones",
+          "URL": "https://learndigital.withgoogle.com/activate/",
+          "image": {
+            "alt": "20200908_cloud_computing_google_activate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/af193bce-b98c-4630-bd2a-523e79980e31_20200908_cloud_compu.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Google AdManager",
+            "type": "technology"
+          },
+          {
+            "name": "Google AdWords",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Apps Script",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "Google Data Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Google Earth Engine",
+            "type": "technology"
+          },
+          {
+            "name": "Google Maps",
+            "type": "technology"
+          },
+          {
+            "name": "Google Optimize",
+            "type": "technology"
+          },
+          {
+            "name": "Google Sheets",
+            "type": "technology"
+          },
+          {
+            "name": "Google Tag Manager",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "ePROTECT occupational health and safety",
