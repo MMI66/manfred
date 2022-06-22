@@ -1262,6 +1262,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Detección de señales & evaluación de causalidad",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Uppsala Monitoring Centre",
+          "description": "Detección de señales & evaluación de causalidad",
+          "URL": "https://who-umc.org/",
+          "image": {
+            "alt": "20210202_deteccion_señales__evaluacion_causalidad_uppsala_monitoring_centre.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/9b4373d1-aedc-4b4d-bf47-9adddf4d06e5_20210202_deteccion_s.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Directrices de planificación operativa para la COVID-19 y  plataforma de los asociados para apoyar la preparación y la  respuesta de los países ante la COVID-19",
         "startDate": "2020-11-01",
         "finishDate": "2020-11-01",
