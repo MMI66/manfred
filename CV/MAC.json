@@ -1808,6 +1808,32 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "ePROTECT Infecciones Respiratorias (ES)",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "Todo el personal que intervenga en la respuesta a los brotes de infecciones respiratorias agudas (IRA) debe contar con las aptitudes y los conocimientos básicos para brindar una respuesta eficaz. Necesitan saber qué son las IRA, cómo se transmiten, cómo se evalúa el riesgo de infección, además de conocer las medidas de higiene básicas para protegerse a sí mismos. Este curso de formación consta de cuatro módulos con videos y presentaciones que se pueden descargar.",
+          "URL": "https://openwho.org/sessions/new?to=%2Fdashboard%2Fdocuments",
+          "image": {
+            "alt": "eprotect-infecciones-respiratorias-agudas_open_badge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/4070ef15-a219-4c22-b8bb-931215104bbe_eprotect-infecciones.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Segmentación. audiencias similares",
         "startDate": "2020-10-01",
         "finishDate": "2020-10-01",
