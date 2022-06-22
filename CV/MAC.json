@@ -2123,6 +2123,36 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "SW25x: Global Health: Case Studios from a Biosocial Perspective",
+        "startDate": "2013-12-01",
+        "finishDate": "2014-05-01",
+        "institution": {
+          "name": "edX HarvardX",
+          "description": "Casos de estudio de salud en diferentes partes del mundo.",
+          "URL": "https://www.edx.org/search?subject=Medicine&partner=Harvard+University",
+          "image": {
+            "alt": "20140528_sw25x_harvardx_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/99ee4461-51dc-4952-90b6-cec9f90d968e_20140528_sw25x_harva.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Certificado asistencia 15º Reunión Nacional de la Sociedad Española de Hipertensión Liga Española para la Lucha contra la Hipertensión Arterial",
