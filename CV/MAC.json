@@ -1760,6 +1760,32 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Segmentación. audiencias similares",
+        "startDate": "2020-10-01",
+        "finishDate": "2020-10-01",
+        "institution": {
+          "name": "faceboook blueprint / eLearning",
+          "description": "Segmentación. audiencias similares",
+          "URL": "https://www.facebook.com/blueprint/courses/path/brand",
+          "image": {
+            "alt": "20201007_segmentacion_audiencias_similares_facebook_blueprint_elearning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/cc74f87c-5385-4d32-93d7-1ea37fd6110f_20201007_segmentacio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Facebook Ads",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Introducción al Desarrollo Web I (40 horas)",
         "startDate": "2020-09-01",
         "finishDate": "2020-09-01",
