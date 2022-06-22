@@ -1210,6 +1210,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave (IRAG).",
+          "URL": "https://openwho.org/dashboard/documents"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Directrices de planificación operativa para la COVID-19 y  plataforma de los asociados para apoyar la preparación y la  respuesta de los países ante la COVID-19",
         "startDate": "2020-11-01",
         "finishDate": "2020-11-01",
