@@ -1216,7 +1216,11 @@
         "institution": {
           "name": "World Health Organization",
           "description": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave (IRAG).",
-          "URL": "https://openwho.org/dashboard/documents"
+          "URL": "https://openwho.org/dashboard/documents",
+          "image": {
+            "alt": "20220622_curso_corto_capacitación_oms_manejo_clinico_infección_respiratoria_agura_grave_oms.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/7a1552c8-1fd7-4673-b08f-1348dcf92467_20220622_curso_corto.png"
+          }
         },
         "linkedCompetences": [
           {
