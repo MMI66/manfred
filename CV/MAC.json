@@ -1262,6 +1262,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "COVID-19 Contact Tracing",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "The COVID-19 crisis has created an unprecedented need for contact tracing across the country, requiring thousands of people to learn key skills quickly. The job qualifications for contact tracing positions differ throughout the country and the world, with some new positions open to individuals with a high school diploma or equivalent. \n\nIn this introductory course, students will learn about the science of SARS-CoV-2 , including the infectious period, the clinical presentation of COVID-19, and the evidence for how SARS-CoV-2 is transmitted from person-to-person and why contact tracing can be such an effective public health intervention. Students will learn about how contact tracing is done, including how to build rapport with cases, identify their contacts, and support both cases and their contacts to stop transmission in their communities. The course will also cover several important ethical considerations around contact tracing, isolation, and quarantine. Finally, the course will identify some of the most common barriers to contact tracing efforts -- along with strategies to overcome them.",
+          "URL": "https://es.coursera.org/learn/covid-19-contact-tracing?=",
+          "image": {
+            "alt": "20210906_covid_19_contact_tracing.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/e0221572-267d-4ca9-ac9c-8d1dc42078ec_20210906_covid_19_co.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
