@@ -20,6 +20,10 @@
     },
     "relevantLinks": [
       {
+        "type": "other",
+        "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/"
+      },
+      {
         "type": "github",
         "URL": "https://github.com/MMI66/"
       },
@@ -37,10 +41,6 @@
       },
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/mag-mi"
-      },
-      {
-        "type": "other",
         "URL": "https://www.linkedin.com/in/mag-mi"
       }
     ],
