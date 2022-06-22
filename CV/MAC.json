@@ -2137,6 +2137,36 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/6326d9bb-e306-466a-b0b2-ea2ce8aebcbf_20100312_sehlelha.png"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Sesiones Científicas 15ª Reunión Nacional Sociedad Española de Hipertensión Liga Española para la Lucha contra la Hipertensión Arterial",
+        "startDate": "2010-03-01",
+        "finishDate": "2010-03-01",
+        "institution": {
+          "name": "SEH-LELHA Sociedad Española de Hipertensión Liga Española para la Lucha contra la Hipertensión Arterial",
+          "description": "Asistencia a Sesiones Científicas 15ª Reunión Nacional Sociedad Española de Hipertensión Liga Española para la Lucha contra la Hipertensión Arterial\n(33.6 horas lectivas)",
+          "URL": "http://seh-lelha.org/categoria/reuniones-seh-lelha/",
+          "image": {
+            "alt": "20100312_sehlelha.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/8f2c308d-3e1c-4036-90ea-c403d30e7532_20100312_sehlelha.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
