@@ -1392,6 +1392,84 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Outbreaks and Epidemics",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "Professional epidemiologists are often called on to investigate outbreaks and epidemics. This course serves as an introduction to the essentials of investigation, identifying pathogens, figuring out what's going on, reporting, and responding. You'll learn how to ask precise epidemiologic questions and apply epidemiologic tools to uncover the answers. You'll also learn about basic epidemic dynamics and the terrible law that cause them to grow, as well as the reasons why they recede and eventually go away. The course concludes with deep dives into some real outbreaks from Ebola, in West Africa, to the opioid epidemic in the United States.",
+          "URL": "https://es.coursera.org/learn/outbreaks-epidemics?=",
+          "image": {
+            "alt": "20210912_Outbreaks_and_epidemics_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/1700f60b-debb-44f0-b66e-2f62c968bcaf_20210912_outbreaks_a.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Programa especializado: Epidemiology in Public Health Practice",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "This specialization is intended for people working or aspiring to work in the field of public health at the local, regional, and national level. Over five courses taught by faculty from the preeminent school of public health, you'll learn to use the core epidemiologic toolset to measure the health of populations, assess interventions, collect and analyze data, and investigate outbreaks and epidemics.",
+          "URL": "https://es.coursera.org/specializations/professional-epidemiology",
+          "image": {
+            "alt": "20210912_Epidemeliogy_in_Public_Health_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/74161a6b-1ea9-4da1-bf8e-3fd025568b11_20210912_epidemeliog.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introduction to Genomic Technologies",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "This course introduces you to the basic biology of modern genomics and the experimental tools that we use to measure it. We'll introduce the Central Dogma of Molecular Biology and cover how next-generation sequencing can be used to measure DNA, RNA, and epigenetic patterns. You'll also get an introduction to the key concepts in computing and data science that you'll need to understand how data from next-generation sequencing experiments are generated and analyzed.  \n\nThis is the first course in the Genomic Data Science Specialization.",
+          "URL": "https://es.coursera.org/learn/introduction-genomics?",
+          "image": {
+            "alt": "20210914_introduction _genomic_technologies_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/9c0e3a8c-2d63-47e2-af5f-2ef7a45596c8_20210914_introductio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
