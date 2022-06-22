@@ -1288,6 +1288,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Razonamiento estadístico y algoritmos en farmacovigilancia",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Uppsala Monitoring Centre",
+          "description": "Razonamiento estadístico y algoritmos en farmacovigilancia",
+          "URL": "https://who-umc.org/",
+          "image": {
+            "alt": "20210202_razonamiento_estadistico_algoritmos_en_farmacovigilancia_uppsala_monitoring_center.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/50366012-9c88-48ca-9c7a-579288bf7a77_20210202_razonamient.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Directrices de planificación operativa para la COVID-19 y  plataforma de los asociados para apoyar la preparación y la  respuesta de los países ante la COVID-19",
         "startDate": "2020-11-01",
         "finishDate": "2020-11-01",
