@@ -1236,6 +1236,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Introducción a la farmacovigilancia - Spanish",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Uppsala Monitoring centre",
+          "description": "Introducción a la farmacovigilancia",
+          "URL": "https://who-umc.org/",
+          "image": {
+            "alt": "20210201_introduccion_farmacovigilancia_spanish_uppsala_monitoring_centre.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/e43bce73-367f-4a5a-ae69-9c7795ac93fd_20210201_introduccio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Directrices de planificación operativa para la COVID-19 y  plataforma de los asociados para apoyar la preparación y la  respuesta de los países ante la COVID-19",
         "startDate": "2020-11-01",
         "finishDate": "2020-11-01",
