@@ -1232,6 +1232,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "ePROTECT occupational health and safety",
+        "startDate": "2020-02-01",
+        "finishDate": "2020-02-01",
+        "institution": {
+          "name": "World Health Organization",
+          "URL": "https://openwho.org/dashboard/documents",
+          "image": {
+            "alt": "e-protect_open_badge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/a974b387-26b0-41fa-9427-08faea2e0d41_e-protect_open_badge.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Geopolítica de Los Recursos Naturales",
         "startDate": "2019-10-01",
         "finishDate": "2019-12-01",
