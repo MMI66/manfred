@@ -1009,6 +1009,32 @@
       },
       {
         "details": {
+          "name": "COVID-19",
+          "description": "COVID-19 threatens to become one of the most difficult tests faced by humanity in modern history. As\nthe pandemic has spread it has taken lives, stirred anxiety and political drama, overwhelmed health\nsystems, and triggered potentially lasting geopolitical change. The International Monetary Fund says the\nglobal economy now faces its worst downturn since the Great Depression, and Oxfam International has\nwarned that half a billion people could be pushed into poverty as a result of the unfolding crisis. Around\nthe world, desperate efforts are underway to contain what has become a profoundly disruptive outbreak.\n",
+          "URL": "https://intelligence.weforum.org/",
+          "image": {
+            "alt": "20201211_covid19_mapa.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/d0578a4b-7245-4fec-a18b-1d7174297b23_20201211_covid19_map.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2020-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Strategic Intelligence"
+        ]
+      },
+      {
+        "details": {
           "name": "Route66foresearchers.cloud",
           "description": "Route66forResearchers pasa de acceso público a acceso interno. Tras año y medio de trabajo y acceso público, por las diferentes necesidades de programación; pasa al acceso interno del Cloud con el objetivo \"El paciente y la mejora de su estado de salud es el Fin\", siendo los investigadores el centro.",
           "URL": "https://www.youtube.com/watch?v=NXyJBoK3l2c",
