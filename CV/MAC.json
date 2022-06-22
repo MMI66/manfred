@@ -52,6 +52,19 @@
     ],
     "recommendations": [
       {
+        "title": "COVID-19 A Multidisciplinary Vision",
+        "type": "reading",
+        "URL": "https://magmarketintelligence.com/index.php/strategic-intelligence/",
+        "authors": [
+          {
+            "name": "Marco",
+            "surnames": "Antonio González",
+            "title": "Author"
+          }
+        ],
+        "summary": "The SARS-CoV-2 (COVID-19) Pandemic must be approached under a multidisciplinary health vision for a\nperfect understanding of the global health problem it generates.\nThe virus and the pathologies it causes, the use of medical biotechnology for the rapid development of\neffective and safe vaccines, the resolution of the logistical problem of production and distribution, the\npublic policies of governance of the Pandemic and the response of the health authorities are the basis for\ndesigning a dynamic map that helps us understand what we are up against and draw a symmetric\nsolution.\n"
+      },
+      {
         "title": "Estrategia Cero con el COVID-19: Guerra al SARS-CoV-2 (COVID-19). Con un virus no se puede convivir",
         "type": "reading",
         "URL": "https://www.amazon.es/gp/product/B09L8PD6YF/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1",
