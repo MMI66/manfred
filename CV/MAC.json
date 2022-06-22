@@ -2017,6 +2017,36 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Geopolítica de Los recursos Naturales",
+        "startDate": "2019-10-01",
+        "finishDate": "2019-12-01",
+        "institution": {
+          "name": "CEDEGYS",
+          "description": "Ambientación general \nRecursos naturales relacionados con la Industria y el Comercio. \nRecursos naturales relacionados con la seguridad humana \nTemas transversales\n Ejercicio final",
+          "URL": "https://cedegys.com/",
+          "image": {
+            "alt": "20191218_curso_geopolitica_recursos_naturales_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/a90ef9c1-eb2d-44df-aedc-377042d54e83_20191218_curso_geopo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Machine Learning de A a la Z: R y Python para Data Science",
         "startDate": "2019-06-01",
         "finishDate": "2019-06-01",
