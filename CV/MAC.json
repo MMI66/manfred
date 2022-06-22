@@ -1824,6 +1824,76 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Introducción al Desarrollo WEB II (40 horas)",
+        "startDate": "2020-09-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "Google Actívate",
+          "description": "Introducción al Desarrollo WEB II \nCómo se define la presentación de una página web\nCómo se define la presentación de los elementos de una página web \nCómo se maqueta una página web\nCómo se logra que una página web tenga éxito",
+          "URL": "https://learndigital.withgoogle.com/activate/",
+          "image": {
+            "alt": "20200907_introduccion_desarrollo_web_iI_google_activate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/a1efcb3f-3930-4774-a1a1-bb29f97bcc33_20200907_introduccio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Google AdManager",
+            "type": "technology"
+          },
+          {
+            "name": "Google AdWords",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Apps Script",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "Google Data Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Google Earth Engine",
+            "type": "technology"
+          },
+          {
+            "name": "Google Maps",
+            "type": "technology"
+          },
+          {
+            "name": "Google Optimize",
+            "type": "technology"
+          },
+          {
+            "name": "Google Sheets",
+            "type": "technology"
+          },
+          {
+            "name": "Google Tag Manager",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "ePROTECT occupational health and safety",
