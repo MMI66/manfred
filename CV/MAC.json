@@ -1809,6 +1809,32 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso fundamental de Macroeconomía",
+        "startDate": "2014-01-01",
+        "finishDate": "2014-03-01",
+        "institution": {
+          "name": "Universidad Rey Juan Carlos",
+          "description": "Se centra en el análisis del funcionamiento de las economías comtemporáneas a través de los modelos macroeconómicos IS-LM, SA-DA, en un entorno de economía cerrada.",
+          "URL": "https://miriadax.net/",
+          "image": {
+            "alt": "20140306_curso_fundamental_macroeconomia_urj.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/19511570-fb4b-4606-a00e-e26aeeb2cc46_20140306_curso_funda.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "SW25x: Global Health: Case Studies from a Biosocial Perspective",
