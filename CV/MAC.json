@@ -1760,6 +1760,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Directrices de planificación operativa para la COVID-19 y plataforma de los asociados para apoyar la preparación y la respuesta de los países ante la COVID-19",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "Directrices de planificación operativa para la COVID-19 y plataforma de los asociados para apoyar la preparación y la respuesta de los países ante la COVID-19",
+          "URL": "https://openwho.org/sessions/new?to=%2Fdashboard%2Fdocuments",
+          "image": {
+            "alt": "UNCT-COVID19-preparacion-y-respuesta-ES_open_badge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/433a01be-8c50-4f44-90d7-a4d77595047b_unct-covid19-prepara.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Segmentación. audiencias similares",
         "startDate": "2020-10-01",
         "finishDate": "2020-10-01",
