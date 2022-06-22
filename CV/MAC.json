@@ -8,14 +8,14 @@
     "profile": {
       "name": "Marco Antonio",
       "surnames": "González",
-      "title": "En plena reconversión a mis 55 años con 33 de experiencia laboral acumulada para afrontar los próximos 11 años de trabajo, que pienso son los mejores.",
+      "title": "En constante evolución a mis 55 años con 33 de experiencia laboral acumulada para afrontar los próximos 11 años de trabajo, que pienso son los mejores.",
       "description": "15 años como trabajador directo de la \nindustria farmacéutica en diferentes roles \ny 18 años como consultor independiente \npara la industria farmacéutica y el entorno sanitario, son un total de 33 años de \ndesarrollo laboral con grandes aciertos y \ngrandes equivocaciones, en una evolución \nconstante para afrontar los próximos 11 \naños, que pienso que son los mejores; por \nel enorme avance tecnológico en el que \nestamos inmersos basados en la Cuarta \nRevolución Industrial y en la Inteligencia \nArtificial con el fin de \"proteger la vida\".\nDefinición exacta de mi vida, de mi visión \ny de mi misión como respuesta en un \nproceso de selección.\nSe ha producido de forma evolutiva, darwiniana, nunca fue una vocación clara y \ntiene su razón; las disciplinas o materias \nen las que he trabajado y una visión abstracta en el espacio/tiempo para vincular \nlos conocimientos acumulados.\nDesde mi deseo de juventud de ir a la \nEscuela Naval Militar, pasando por mi \nincorporación a la Industria Farmacéutica \nhasta llegar al actual desarrollo de Inteligencia Artificial ha sido un largo camino \nen que el concepto \"Inteligencia\" es la \nestructura que soporta toda mi vida.\nLa Pandemia del SARS-CoV-2 me dado la \nrazón (por desgracia) y he pagado un duro \npeaje a nivel personal y familiar.",
       "avatar": {
         "alt": "yo_despacho.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/d2040cc6-342b-4580-93aa-bfb74dbae66a_yo_despacho.jpg"
       },
       "location": {
-        "notes": "En la playa de Vilafortuny, en Cambrils."
+        "notes": " la playa de Vilafortuny, en Cambrils."
       }
     },
     "relevantLinks": [
@@ -295,10 +295,6 @@
                 "type": "technology"
               },
               {
-                "name": "Citrix",
-                "type": "technology"
-              },
-              {
                 "name": "Cloudwatch",
                 "type": "technology"
               },
@@ -308,10 +304,6 @@
               },
               {
                 "name": "Databricks",
-                "type": "technology"
-              },
-              {
-                "name": "Dreamweaver",
                 "type": "technology"
               },
               {
@@ -1097,6 +1089,18 @@
       },
       {
         "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS-Admin",
           "type": "technology"
         }
@@ -1109,13 +1113,37 @@
       },
       {
         "skill": {
+          "name": "Microsoft",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS-User",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Microsoft Access",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Amazon SQS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Canva",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Abstract",
           "type": "technology"
         }
       }
