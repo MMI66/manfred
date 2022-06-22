@@ -1811,6 +1811,32 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Machine Learning de A a la Z: R y Python para Data Science",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Dominar el Machine Learning con R y con Python.\nTener intuición en la mayoría de modelos de Machine Learning.\nHacer predicciones precisas y acertadas.\nCrear unos análisis elaborados.\nCrear modelos de Machine Learning robustos y consistentes.\nCrear valor añadido a tu propio negocio.\nUtilizar el Machine Learning para cuestiones personales.\nDominar aspectos específicos como por ejemplo Reinforcement Learning, NLP o Deep Learning\nConocer las técnicas más avanzadas como la reducción de la dimensionalidad.\nSaber qué modelo de Machine Learning usar para cada tipo de problema.\nCrear toda una librería de modelos de Machine Learning y saber cómo combinarlos para resolver cualquier problema.\nIncluye el libro oficial de preguntas típicas de machine learning, creado a partir de las dudas de estudiantes con ejemplos y respuestas a tus posibles dudas.",
+          "URL": "https://www.udemy.com/course/machinelearning-es/?src=sac&kw=machine+learning+de+A+a+la+Z",
+          "image": {
+            "alt": "20190607_machine_learning_from_a_to_z_r-pyhton.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/24a84bc5-e8ed-484f-a867-b286b67a6476_20190607_machine_lea.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Curso fundamental de Macroeconomía",
         "startDate": "2014-01-01",
         "finishDate": "2014-03-01",
