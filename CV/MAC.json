@@ -1236,6 +1236,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "ÍNDICE ICF - Generalitat de Catalunya",
+          "description": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)\nMÓDULO 1: SISTEMAS DE SOPORTE A LA TOMA DE DECISIONES Y GESTIÓN DE DATOS\n1. Caracterización de la aplicación del lenguaje Python.\n2. Interpretación la aplicación de protocolos APIO.\n3. Programación de un algoritmo modular en lenguaje Python.\n4. Distinción de los conceptos Cloud básicos.\n5. Uso de BBDD NoSQL y nuevos modelos de datos (estructurados y no estructurados).\n6. Conocimiento del almacenamiento Big Fecha y las herramientas de procesamiento masivo.\n7. Evaluación de las metodologías y técnicas aplicadas en la resolución de problemas y justificación de los planteamientos, decisiones y propuestas realizadas.\n8. Identificación de los factores clave de un problema complejo en el contexto de un proyecto de analítica.\n9. Distinción y aplicación de los nuevos modelos de datos.\n10. Identificación y análisis de problemas complejos en el área de análisis de datos y planteamiento de soluciones.\n11. Planificación y ejecución de un trabajo de análisis de datos con una propuesta metodológica.\n12. Elección de un repositorio adecuado para los datos del problema y definición de una estrategia de almacenamiento.\nMÓDULO 2: GESTIÓN Y PROCESAMIENTO DE DATOS\n1. Evaluación crítica de las metodologías y técnicas a aplicar en la resolución de problemas y justificación de los planteamientos, decisiones y propuestas realizadas.\n2. Identificación de los flujos de datos y ETL (Extract Transform Load).\n3. Diseño de un proceso ETL y un modelo de análisis multidimensional.\n4. Diseño de una carga de datos a un repositorio NoSQL y análisis de los datos básico utilizando Spark.\n5. Identificación de los factores clave de un problema complejo en el contexto de un proyecto de analítica.\n6. Demostración de una actitud crítica de un pensamiento estratégico, presentando esquemas de tratamiento de los datos y permitiendo la discusión con grupos de interés internos y externos a la empresa para formular\nactuaciones orientadas al futuro.\n7. Desarrollo de las actividades de diseño y análisis de datos con responsabilidad social, honestidad intelectual e integridad científica.\n8. Concienciación de la necesidad de una actitud responsable y comprometida con los resultados y la limitación de los recursos disponibles a la toma de decisiones en entornos profesionales complejos.\n9. Valoración de la importancia de la adaptación a las restricciones de coste, disponibilidad, tiempo de desarrollo o implantación en la revisión de un diseño inicial de gestión de datos.\nMÓDULO 3: APRENDIZAJE AUTOMÁTICO Y VISUALIZACIÓN.\n1. Identificación de los cimientos de análisis de datos y aprendizaje automático (Machine Learning).\n2. Distinción de los métodos clasificadores.\nAplicación de las técnicas de aprendizaje automático y la integración de varias fuentes de datos.\n3 Diseño, desarrollo y evaluación de los métodos de aprendizaje automático.\n4. Diseño y desarrollo de dashboards.\n5. Utilización de una herramienta de visualización de datos para el diseño y carga de datos a un panel de control.\n6. Elección, aplicación y evaluación de la calidad de un algoritmo de aprendizaje automático para un problema dado a partir de un conjunto de datos.\n7. Uso de habilidades de comunicación con los grupos de interés para mostrar los aspectos más relevantes de los resultados obtenidos en los resultados del proceso y su adaptación a las necesidades del proyecto.\n8. Aplicación de soluciones innovadoras y adaptación a los entornos cambiantes.\n9. Capacidad de desarrollo continuo de proyectos y comunicación de los resultados y decisiones con técnicas y herramientas de visualización.\n10. Coordinación y comunicación con especialistas, no especialistas, supervisores y clientes con el uso de las herramientas de comunicación para el diseño de información relevante sobre los aspectos claves de la aplicación",
+          "URL": "https://indiceformacion.com/",
+          "image": {
+            "alt": "20220606_data_scientits_generalitat_catalunya_indice.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/d0f9bb78-3ce5-45bb-aef6-b76cba3e9dd4_20220606_data_scient.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Manejo del enfermo semicrítico y crítico por COVID-19",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
