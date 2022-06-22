@@ -1299,6 +1299,32 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave (IRAG).",
+          "URL": "https://openwho.org/sessions/new?to=%2Fdashboard%2Fdocuments",
+          "image": {
+            "alt": "eprotect-infecciones-respiratorias-agudas_open_badge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/808a41c7-4957-4bf3-b88b-aa5ffd21f8f2_eprotect-infecciones.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
