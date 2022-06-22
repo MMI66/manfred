@@ -52,6 +52,19 @@
     ],
     "recommendations": [
       {
+        "title": "COVID-19",
+        "type": "reading",
+        "URL": "https://magmarketintelligence.com/index.php/strategic-intelligence/",
+        "authors": [
+          {
+            "name": "Marco",
+            "surnames": "Antonio González",
+            "title": "Author"
+          }
+        ],
+        "summary": "COVID-19 threatens to become one of the most difficult tests faced by humanity in modern history. As\nthe pandemic has spread it has taken lives, stirred anxiety and political drama, overwhelmed health\nsystems, and triggered potentially lasting geopolitical change. The International Monetary Fund says the\nglobal economy now faces its worst downturn since the Great Depression, and Oxfam International has\nwarned that half a billion people could be pushed into poverty as a result of the unfolding crisis. Around\nthe world, desperate efforts are underway to contain what has become a profoundly disruptive outbreak."
+      },
+      {
         "title": "COVID-19 A Multidisciplinary Vision",
         "type": "reading",
         "URL": "https://magmarketintelligence.com/index.php/strategic-intelligence/",
