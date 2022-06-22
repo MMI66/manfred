@@ -1765,11 +1765,11 @@
         "finishDate": "2020-09-01",
         "institution": {
           "name": "Google Actívate",
-          "description": "Introducción al Desarrollo Web I \nComo se define la presentación de una página web\nComo se define la presentación de los elementos de una página web\nComo se maqueta una página web\nComo se logra que una página web tenga éxito",
+          "description": "Introducción al Desarrollo Web I \nHistoria de la web\nComo funciona la web\nComo se escribe una página web\nComo se publica un sitio web\nComo se escribe una página web bien estructurada",
           "URL": "https://learndigital.withgoogle.com/activate/",
           "image": {
             "alt": "20200907_introduccion_desarrollo_web_i_google_activate.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/fd11851c-acb2-43d9-84d0-f4f6a3c95092_20200907_introduccio.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/60554d62-189d-4746-a489-4c68e0112065_20200907_introduccio.png"
           }
         },
         "linkedCompetences": [
