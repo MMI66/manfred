@@ -1232,6 +1232,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Geopolítica de Los Recursos Naturales",
+        "startDate": "2019-10-01",
+        "finishDate": "2019-12-01",
+        "institution": {
+          "name": "CEDEGYS",
+          "description": "Ambientación general\nRecursos naturales relacionados con la Industria y el Comercio.\nRecursos naturales relacionados con la seguridad humana\nTemas transversales\nEjercicio final",
+          "URL": "https://cedegys.com/",
+          "image": {
+            "alt": "20191218_curso_geopolitica_recursos_naturales_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/2f844484-0424-40fd-85a3-6126ff3ef6a3_20191218_curso_geopo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SW25x: Global Health: Case Studies from a Biosocial Perspective",
         "startDate": "2013-12-01",
         "finishDate": "2014-05-01",
