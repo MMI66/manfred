@@ -1782,6 +1782,32 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Nuevos virus respiratorios, incluido el COVID-19: métodos de detección, prevención, respuesta y control",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "Nuevos virus respiratorios, incluido el COVID-19: métodos de detección, prevención, respuesta y control",
+          "URL": "https://openwho.org/sessions/new?to=%2Fdashboard%2Fdocuments",
+          "image": {
+            "alt": "introduccion-al-ncov_open_badge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/aebbb2dd-1f76-491e-a4c2-88350d50eee5_introduccion-al-ncov.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Segmentación. audiencias similares",
         "startDate": "2020-10-01",
         "finishDate": "2020-10-01",
