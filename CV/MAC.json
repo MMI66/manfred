@@ -1713,6 +1713,36 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Claves para Gestionar personas",
+        "startDate": "2020-12-01",
+        "finishDate": "2020-12-01",
+        "institution": {
+          "name": "IESE Business School University of Navarra",
+          "description": "¿Te has preguntado alguna vez qué criterios utilizan las empresas para contratar o retribuir a las personas? ¿Por qué no siempre entendemos los planes de promoción?. El objetivo de este curso es conocer algunas herramientas prácticas en materia de Recursos Humanos y aprender a gestionar personas y liderar el talento con la mayor eficacia posible.",
+          "URL": "https://es.coursera.org/",
+          "image": {
+            "alt": "20201227_claves_para_gestionar_personas_iese.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/6f95811c-e183-4696-8ae3-fa896e0c39fc_20201227_claves_para.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Desarrollo de Apps Móviles (40 h)",
         "startDate": "2020-12-01",
         "finishDate": "2020-12-01",
