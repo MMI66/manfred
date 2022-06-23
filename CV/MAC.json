@@ -1901,6 +1901,48 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Understanding Amazon EBS Volume Encryption (Spanish)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "Understanding Amazon EBS Volume Encryption (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210430_understanding_amazon_ebs_volume_encryptation_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/00c8eed1-2090-46e1-9151-dadbff62e3ab_20210430_understandi.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "AWS Solutions Training for Partners: Migrating to AWS - Business (Clasroom)",
         "startDate": "2021-03-01",
         "finishDate": "2021-03-01",
