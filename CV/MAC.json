@@ -1673,6 +1673,44 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: Machine Learning on AWS Business (Classroom)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: Machine Learning on AWS Business (Classroom)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210329_aws_solutions_training_for-partners_machine_learning_on_aws_business_classroom.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/be7f621a-4c02-43cc-805e-d51fc6e04e9f_20210329_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Exploring the Machine Learning Toolset (Spanish)",
         "startDate": "2021-03-01",
         "finishDate": "2021-03-01",
