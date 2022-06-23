@@ -1709,6 +1709,44 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: Well-Architected Best Practices-Technical (Spanish)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: Well-Architected Best Practices-Technical (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210322_aws_solutions_training_for_partners_well_architected_best_practices_technical_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/0e700064-dfcf-43fd-a683-7baa7dcda75e_20210322_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Introducción a la farmacovigilancia - Spanish",
