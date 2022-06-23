@@ -1217,6 +1217,39 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
+        "name": "BIG DATA II",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "ÍNDICE ICF - Generalitat de Catalunya",
+          "description": "El curso se divide en unidades, estas requieren un tiempo mínimo de visualización para garantizar que el alumno ha leído o escuchado su contenido.\n\n1. Haadop\n2. Mongo DB\n3. Dashboards de KPI\n3.1. Exasol\n3.2. Mem SQL\n3.3. Kudu\n3.4 Apache Impala\n3.5. Hive LLAP\n3.6. Presto\n3.7. Phoenix\n3.8. Drill\n3.9. ATScale\n3.10. Jethro Data\n3.11. Kyvos Insight",
+          "URL": "https://indiceonline.com/campus/login/login-image/",
+          "image": {
+            "alt": "20220601_big_data_2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/a742e68b-3f5d-408b-97a6-90815181a7ca_20220601_big_data_2.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
         "name": "BIG DATA I",
         "startDate": "2022-06-01",
         "institution": {
