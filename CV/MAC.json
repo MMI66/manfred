@@ -1661,6 +1661,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "AWS SUMMIT ONLINE EMEA",
+        "startDate": "2021-06-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "AWS de AMAZON WEB SERVICES",
+          "description": "AWS SUMMIT ONLINE EMEA",
+          "URL": "https://aws.amazon.com/es/",
+          "image": {
+            "alt": "20210609_certificado_asistencia_aws_summit_online-emea.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/e3d1092c-efaf-4d6d-835b-de3eb0e0b322_20210609_certificado.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "AWS Virtual Days: Día 1 / Por qué migrar a AWS y las herramientas disponibles para hacerlo",
         "startDate": "2021-05-01",
         "finishDate": "2021-05-01",
