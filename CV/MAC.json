@@ -1831,6 +1831,48 @@
         ]
       },
       {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Certificado de Asistencia AWS INNOVATE ONLINE CONFERENCE",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "AWS de Amazon",
+          "description": "Certificado de Asistencia AWS INNOVATE ONLINE CONFERENCE",
+          "URL": "https://aws.amazon.com/es/events/innovate-online-conference/americas/",
+          "image": {
+            "alt": "20210224_asistencia_aws_innovate_online.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/ee2898bc-67f9-4d59-8c5f-98549c809f75_20210224_asistencia_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Claves para Gestionar personas",
