@@ -1713,6 +1713,32 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Introducción a la farmacovigilancia - Spanish",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Uppsala Monitoring Centre",
+          "description": "Introducción a la farmacovigilancia - Spanish",
+          "URL": "https://who-umc.org/",
+          "image": {
+            "alt": "20210201_introduccion_farmacovigilancia_spanish_uppsala_monitoring_centre.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/fd4ea4dc-e9d8-4292-8707-1f63e12c6994_20210201_introduccio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Claves para Gestionar personas",
         "startDate": "2020-12-01",
         "finishDate": "2020-12-01",
