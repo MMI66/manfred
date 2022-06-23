@@ -1661,6 +1661,44 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "AWS Virtual Days: Día 1 / Por qué migrar a AWS y las herramientas disponibles para hacerlo",
+        "startDate": "2021-05-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "AWS Marketing Iberia",
+          "description": " Virtual Days: Día 1 / Por qué migrar a AWS y las herramientas disponibles para hacerlo",
+          "URL": "https://aws.amazon.com/es/local/spain/",
+          "image": {
+            "alt": "20210518_aws_virtual_days_dia_1_por_que_migrar_a_aws_y_las_herramientas_disponibles_para_hacerlo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/d6091e4e-312a-4582-b9f5-f4e4eaa2045c_20210518_aws_virtual.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Prevención y control de infecciones (PCI) causadas por el virus d ela COVID-19",
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
