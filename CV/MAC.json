@@ -1635,6 +1635,36 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Prevención y control de infecciones (PCI) causadas por el virus d ela COVID-19",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "En este curso se suministra información sobre lo que deben hacer los establecimientos de salud con el fin de estar preparados para responder a un caso de infección por un nuevo virus respiratorio como el nuevo coronavirus, reconocer un caso cuando ocurre y aplicar adecuadamente las medidas de PCI a fin de que la infección no se transmita al personal de salud, otros pacientes ni otras personas en el establecimiento de salud.\n\nEste curso de capacitación se dirige a los trabajadores de salud y los profesionales de salud pública, puesto que se centra en la prevención y el control de infecciones.",
+          "URL": "https://openwho.org/dashboard/documents",
+          "image": {
+            "alt": "20210406_prevencion_y_control_de_infecciones_pci_causadas_por_el_virus_covid_19_who.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/3046fc8f-f082-46f6-a51d-6108737dca92_20210406_prevencion_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "AWS Solutions Training for Partners: Migrating to AWS - Business (Clasroom)",
         "startDate": "2021-03-01",
         "finishDate": "2021-03-01",
