@@ -1671,6 +1671,44 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Clasroom)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Clasroom)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210319_aws_solutions_training_for_partners_aws_for_microsoft_workloads_business_classroom.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/4c4c5692-b9d8-4ed0-912d-2ac872686e00_20210319_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Introducción a la farmacovigilancia - Spanish",
