@@ -1739,6 +1739,32 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Detección de señales & evaluación de causalidad",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Uppsala Monitoring Centre",
+          "description": "Detección de señales & evaluación de causalidad",
+          "URL": "https://who-umc.org/",
+          "image": {
+            "alt": "20210202_deteccion_señales__evaluacion_causalidad_uppsala_monitoring_centre.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/41194859-d69f-4806-937c-ff6740470587_20210202_deteccion_s.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Claves para Gestionar personas",
         "startDate": "2020-12-01",
         "finishDate": "2020-12-01",
