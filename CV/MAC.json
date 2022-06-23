@@ -1875,6 +1875,44 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "AWS Technical Professional (Spanish)",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Technical Professional (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210225_aws_technical_professional_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/db5b12c7-1a6f-4b87-995e-dbe2263854d0_20210225_aws_technic.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Claves para Gestionar personas",
         "startDate": "2020-12-01",
         "finishDate": "2020-12-01",
