@@ -1791,6 +1791,48 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Curso Introducción a Amazon Web Services (AWS) desde cero",
+        "startDate": "2021-02-01",
+        "finishDate": "2022-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Bienvenido al curso de introducción a Amazon Web Services (AWS) desde cero. Aprenda Cloud Computing con Amazon AWS de la mano de un experto certificado en Amazon AWS: José María González.  Con este curso aumentara sus habilidades y conocimientos para construir su infraestructura en la nube de AWS.\n\nEn este curso podrá gestionar múltiples servicios de AWS como S3, EC2, ELB, RDS, AutoScaling, Lamdba, Route 53, CloudWatch y un largo etcétera para el despliegue de infraestructuras y aplicaciones escalables en la nube de Amazon.\n\nRealizará prácticas en AWS de forma gratuita con la capa gratuita Amazon ( Free Tier ).\n\nLa nube de Amazon Web Services (AWS) es la más popular para el desarrollo de aplicaciones, soluciones de cloud computing y almacenaje de datos en la nube.",
+          "URL": "https://www.udemy.com/course/curso-introduccion-amazon-web-services-aws-desde-cero/",
+          "image": {
+            "alt": "20210222_curso_introduccion_amazon_web_services_desde_cero_udemy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/90f69e47-87c3-4a2c-a157-fa015c3f8736_20210222_curso_intro.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Claves para Gestionar personas",
         "startDate": "2020-12-01",
         "finishDate": "2020-12-01",
