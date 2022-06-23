@@ -1699,6 +1699,48 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "AWS virtual Days (2) / ¿Cómo migrar tus aplicaciones a la nube de AWS?",
+        "startDate": "2021-05-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "AWS Marketing Iberia",
+          "description": "AWS virtual Days (2) / ¿Cómo migrar tus aplicaciones a la nube de AWS?",
+          "URL": "https://aws.amazon.com/es/local/spain/",
+          "image": {
+            "alt": "20210519_aws_virtual_days_2_como_migrar_tus_aplicaciones_a_la_nube_de_aws.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/26be4b16-d400-40b7-9410-1881208b45ff_20210519_aws_virtual.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Prevención y control de infecciones (PCI) causadas por el virus d ela COVID-19",
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
