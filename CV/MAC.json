@@ -1759,6 +1759,50 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Outbreaks and Epidemics",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "Professional epidemiologists are often called on to investigate outbreaks and epidemics. This course serves as an introduction to the essentials of investigation, identifying pathogens, figuring out what's going on, reporting, and responding. You'll learn how to ask precise epidemiologic questions and apply epidemiologic tools to uncover the answers. You'll also learn about basic epidemic dynamics and the terrible law that cause them to grow, as well as the reasons why they recede and eventually go away. The course concludes with deep dives into some real outbreaks from Ebola, in West Africa, to the opioid epidemic in the United States.",
+          "URL": "https://www.coursera.org/learn/outbreaks-epidemics",
+          "image": {
+            "alt": "20210912_Outbreaks_and_epidemics_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/6fee16f8-da19-4c56-9aad-544e4985913e_20210912_outbreaks_a.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Programa especializado: Epidemiology in Public Health practice ",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "This specialization is intended for people working or aspiring to work in the field of public health at the local, regional, and national level. Over five courses taught by faculty from the preeminent school of public health, you'll learn to use the core epidemiologic toolset to measure the health of populations, assess interventions, collect and analyze data, and investigate outbreaks and epidemics.",
+          "URL": "https://www.coursera.org/specializations/professional-epidemiology",
+          "image": {
+            "alt": "20210912_Epidemeliogy_in_Public_Health_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/f0cc17fd-126b-426f-8795-8ee49a6cbbc5_20210912_epidemeliog.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Surveillance Systems: Analysis, Dissemination, and Special Systems",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
