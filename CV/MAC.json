@@ -1785,6 +1785,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Aprende SCRUM PMI",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Descubre SCRUM, la metodología ágil de gestión de proyectos que marca una tendencia en la industria. Desde pequeños startups hasta grandes corporaciones, esta nueva forma de trabajar está revolucionando la forma en que trabajamos en equipo. En este curso aprenderás las bases de la filosofía SCRUM, sus roles, herramientas e implementación. Conocerás los fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo. Aprende qué es y cómo incorporar SCRUM a tus proyectos.",
+          "URL": "https://www.linkedin.com/learning/aprende-scrum/presentacion-del-curso-aprende-scrum?autoplay=true",
+          "image": {
+            "alt": "20210820_aprende_scrum_pmi_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/65efef8a-8d61-4d8c-8586-cadcab45051f_20210820_aprende_scr.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Desing Thinknig: Inteligencia de datos",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
