@@ -1741,6 +1741,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Arquitectura de software: De desarrollador a arquitecto o arquitecta",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "La transición desde el desarrollo de software hacia la arquitectura de software no siempre es fácil u obvia, pero te resultará mucho más sencillo entender cómo y por qué dar el paso con los consejos clave de este curso. Aprenderás los conceptos básicos de la arquitectura de software, recibirás consejos para potenciar tus habilidades y experiencia en el ámbito del desarrollo y descubrirás técnicas infalibles para hacer, poco a poco, la transición hacia tu nuevo rol de arquitecto o arquitecta de software.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-de-desarrollador-a-arquitecto-o-arquitecta",
+          "image": {
+            "alt": "20210809_arquitectura_de-software_de_desarrollador_a_arquitecto_o_arquitecta_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/dadcd5bf-a29e-41a3-b7be-7df389b6b362_20210809_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "AWS SUMMIT ONLINE EMEA",
         "startDate": "2021-06-01",
         "finishDate": "2021-06-01",
