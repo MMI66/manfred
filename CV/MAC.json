@@ -1693,6 +1693,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Surveillance Systems: The Building Blocks",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "Epidemiology is often described as the cornerstone science and public health and public health surveillance is a cornerstone of epidemiology. This course will help you build your technical awareness and skills for working with a variety of surveillance systems. Along the way, we'll focus on system objectives, data reporting, the core surveillance attributes, and performance assessment. This course is designed for public health practitioners and anyone who wants to learn more about the basics of public health surveillance. If you develop or implement surveillance systems or aspire to do so or use the data resulting from surveillance, then this course is for you. It's s also for people who are interested in understanding more about this fundamental epidemiologic tool and public health practice.",
+          "URL": "https://www.coursera.org/learn/epidemiology-surveillance-systems",
+          "image": {
+            "alt": "20210908_surveillance_systems_the_building_blocks_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/5ba76719-4373-4bca-bbde-8a461bb014b6_20210908_surveillanc.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Manejo del enfermo semicrítico y crítico por COVID-19",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
