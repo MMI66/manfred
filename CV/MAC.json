@@ -1715,6 +1715,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Essential Epidemiologic Tools for Public Health Practice",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JONH HOPKINS UNIVERSITY",
+          "description": "In order to make a difference in the health and well-being of a population, we must understand the burden of all problems and conditions that affect the population, as well as how well our efforts to mitigate these problems are actually working. This course provides you with some essential skills and tools that will enhance your ability to describe and understand the health of your community. The tools that epidemiologists use are in fact useful for all public health practitioners, including data scientists, program officials, agency leaders, and policymakers. Whether you are deeply enmeshed in your career and looking to augment your skills, or are looking to change career paths into the field of public health, this course will give you some of the practical knowledge and skills that we hope you can apply in your professional endeavors.",
+          "URL": "https://www.coursera.org/learn/epidemiology-tools",
+          "image": {
+            "alt": "20210908_essential_epidemiologic_tools_for_public_health_practice_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/f5339b67-7084-47f8-98b7-5c3fd9093438_20210908_essential_e.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Manejo del enfermo semicrítico y crítico por COVID-19",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
