@@ -4114,6 +4114,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "La inversión financiera y su fiscalidad (2ª edición)",
+        "startDate": "2014-01-01",
+        "finishDate": "2014-03-01",
+        "institution": {
+          "name": "Universidad CEU San Pablo",
+          "description": "Recoge de modo sistemático, organizado y ameno las diversas modalidades de inversión financiera accesibles al pequeño y mediano inversor, realizándose una descripción básica de las características de rentabilidad, riesgo, plazo, liquidez. etc., para centrarse en sus aspectos tributarios, al objeto de tener un conocimiento adecuado de la rentabilidad financiero-fiscal de estas inversiones. ",
+          "URL": "https://miriadax.net/",
+          "image": {
+            "alt": "20140327_inversion_financiera_ceu_sanpablo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/92003a33-37f3-498a-82ad-b14a5b557bdb_20140327_inversion_f.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Curso fundamental de Macroeconomía",
@@ -4177,7 +4203,7 @@
           "URL": "https://www.edx.org/search?subject=Medicine&partner=Harvard+University",
           "image": {
             "alt": "20140528_sw25x_harvardx_1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/a036415e-d0f7-4638-9458-f5f1da8d1d32_20140528_sw25x_harva.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2393e63a-a857-4b44-8f6b-1326f65a1ce5_20140528_sw25x_harva.png"
           }
         },
         "linkedCompetences": [
