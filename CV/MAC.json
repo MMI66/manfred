@@ -1851,6 +1851,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "SCRUM: Anti patrones",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Identificar los problemas en la metodología ágil SCRUM y descubre herramientas para detectar anti patrones y técnicas para adaptarse y comenzar a corregir el rumbo antes de que se vuelvan un problema en tu proyecto. Descubre cómo solucionar estos problemas por usar esta metodología cuando no es suficiente para gestionar tu proyecto.",
+          "URL": "https://www.linkedin.com/learning/scrum-anti-patrones",
+          "image": {
+            "alt": "20210820_scrum_anti_patrones_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/14ba93b2-4bea-4d3f-b504-ba8f31251bf2_20210820_scrum_anti_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Desing Thinknig: Inteligencia de datos",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
