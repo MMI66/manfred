@@ -1431,6 +1431,28 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "REITS: El Rol del Inmobiliario Cotizado en las Carteras",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Janus Henderson - FundsPeople",
+          "description": "Desde el primer REIT que se constituyó en EE. UU. en la década de los 60 como medio para que los inversores particulares pudieran acceder a las ventajas de la titularidad de bienes inmuebles comerciales, esta clase de activo ha evolucionado mucho. En la actualidad, los bienes inmobiliarios cotizados se componen de cientos de empresas con activos físicos de muchos tipos de inmuebles en todo el mundo. Ofrece un gran universo de inversiones a partir del cual los gestores pueden seleccionar grupos de empresas acordes a los fines perseguidos. Como profesional de la gestión de activos es fundamental saber explicar y desgranar en qué consiste esta clase de activo y cómo se puede invertir a través de ella. A lo largo de los siete capítulos en los que se estructura el módulo, que ha contado con la colaboración de Janus Henderson Investors, damos todas las claves sobre la inversión en REITs.",
+          "URL": "https://learning.fundspeople.es/cursos/reits-el-rol-del-inmobiliario-cotizado-en-las-carteras/",
+          "image": {
+            "alt": "20220309_reits_el-rol_del_inmobiliario_cotizado_en_las_carteras_janus_henderson_fundspeople.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/b60b3733-9bcd-4510-932e-fddfd7df8f03_20220309_reits_el-ro.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Manejo del enfermo semicrítico y crítico por COVID-19",
