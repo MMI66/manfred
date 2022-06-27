@@ -3728,6 +3728,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Segmentación: audiencias similares",
+        "startDate": "2020-10-01",
+        "finishDate": "2020-10-01",
+        "institution": {
+          "name": "faceboook blueprint / eLearning",
+          "description": "Segmentación: audiencias similares",
+          "URL": "https://www.facebook.com/blueprint/courses/path/brand",
+          "image": {
+            "alt": "20201007_segmentacion_audiencias_similares_facebook_blueprint_elearning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/95655e5a-1ca9-42b1-a3c8-93ef23e7edd9_20201007_segmentacio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Facebook Ads",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Segmentación. audiencias similares",
