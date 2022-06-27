@@ -1719,6 +1719,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Desing Thinknig: Inteligencia de datos",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Desing Thinknig: Inteligencia de datos",
+          "URL": "https://www.linkedin.com/learning/design-thinking-inteligencia-de-datos",
+          "image": {
+            "alt": "20210804_desing_thinking_inteligencia_de_datos_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/cf12eefa-e47c-47aa-bbb3-46ba06708fa6_20210804_desing_thin.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "AWS SUMMIT ONLINE EMEA",
         "startDate": "2021-06-01",
         "finishDate": "2021-06-01",
