@@ -1807,6 +1807,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Scrum: Roles ",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "SCRUM es una metodología ágil de gestión de proyectos que se ha convertido prácticamente en el estándar de trabajo de incontables organizaciones y empresas. Es fácil de comprender, y en general no toma mucho tiempo comenzar a aplicarlo en un proyecto. Sin embargo, exige que cada integrante conozca a la perfeccion su rol y el de los demás, para que el proyecto funcione sin fricciones. En este curso, vamos a descubrir las tareas que debe cumplir cada integrante del proyecto y analizaremos cada rol a lo largo del ciclo de vida de un proyecto SCRUM.",
+          "URL": "https://www.linkedin.com/learning/scrum-roles",
+          "image": {
+            "alt": "20210820_scrum_roles_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/7ee149d8-e5e3-4d3d-bb10-a723e5fb65a6_20210820_scrum_roles.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Desing Thinknig: Inteligencia de datos",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
