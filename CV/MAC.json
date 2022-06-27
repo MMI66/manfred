@@ -1217,6 +1217,31 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
+        "name": "BIG DATA I",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "ÍNDICE ICF -Generalitat de Catalunya",
+          "description": "Los contenidos son:\n1. Introducción a Big Data. La cadena de valor. Ecosistema de herramientas por Big Data.\n2. Introducción a estadística por Big Data\n3. Introducción a programación por Big Data\n4. Ingesta y preparación de datos. Infraestructura y herramientas utilizadas\n5. Procedimientos para el análisis de datos\n6. Explotación y visualización de datos\n",
+          "URL": "https://indiceonline.com/campus/login/login-image/",
+          "image": {
+            "alt": "20220601_big_data_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/9af09610-d01f-4647-93a4-75c2fc64f137_20220601_big_data_1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
         "name": "BIG DATA II",
         "startDate": "2022-06-01",
         "institution": {
@@ -1243,31 +1268,6 @@
           },
           {
             "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "BIG DATA I",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "ÍNDICE ICF -Generalitat de Catalunya",
-          "description": "Los contenidos son:\n1. Introducción a Big Data. La cadena de valor. Ecosistema de herramientas por Big Data.\n2. Introducción a estadística por Big Data\n3. Introducción a programación por Big Data\n4. Ingesta y preparación de datos. Infraestructura y herramientas utilizadas\n5. Procedimientos para el análisis de datos\n6. Explotación y visualización de datos\n",
-          "URL": "https://indiceonline.com/campus/login/login-image/",
-          "image": {
-            "alt": "20220601_big_data_1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/9af09610-d01f-4647-93a4-75c2fc64f137_20220601_big_data_1.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
             "type": "technology"
           }
         ]
@@ -1715,6 +1715,50 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Manejo del enfermo semicrítico y crítico por COVID-19",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "Universitat de BARCELONA",
+          "description": "Después de realizar este curso serás capaz de conocer los elementos clave del abordaje del paciente crítico y semicrítico por COVID-19, basados en la evidencia científica disponible y que puedan ayudarte en la toma de decisiones clínicas.\n\nCurso dirigido a los profesionales de medicina y enfermería, con conocimientos básicos en la atención a pacientes críticos y, que debido a la crisis sanitaria, atienden en las áreas de críticos o semicríticos COVID-19 y/o a estos pacientes fuera de su ubicación habitual. Además este curso puede suponer una oportunidad de repaso de contenidos a profesionales que ya trabajen en el ámbito de la Medicina/Enfermeria Crítica y Terapia Intensiva. ",
+          "URL": "https://www.coursera.org/learn/covid-19-esp",
+          "image": {
+            "alt": "20210904_manejo_enfermo_semicritico_critico_covid_19_universitat_barcelona.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2cc72ea4-1093-4a65-aae7-c2e451227f45_20210904_manejo_enfe.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "COVID-19 Contact Tracing",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "The COVID-19 crisis has created an unprecedented need for contact tracing across the country, requiring thousands of people to learn key skills quickly. The job qualifications for contact tracing positions differ throughout the country and the world, with some new positions open to individuals with a high school diploma or equivalent. \n\nIn this introductory course, students will learn about the science of SARS-CoV-2 , including the infectious period, the clinical presentation of COVID-19, and the evidence for how SARS-CoV-2 is transmitted from person-to-person and why contact tracing can be such an effective public health intervention. Students will learn about how contact tracing is done, including how to build rapport with cases, identify their contacts, and support both cases and their contacts to stop transmission in their communities. The course will also cover several important ethical considerations around contact tracing, isolation, and quarantine. Finally, the course will identify some of the most common barriers to contact tracing efforts -- along with strategies to overcome them.",
+          "URL": "https://www.coursera.org/learn/covid-19-contact-tracing",
+          "image": {
+            "alt": "20210906_covid_19_contact_tracing.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/c1a1c670-c845-46f0-8d0c-e9248b413375_20210906_covid_19_co.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Surveillance Systems: The Building Blocks",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
@@ -1747,6 +1791,28 @@
           "image": {
             "alt": "20210908_essential_epidemiologic_tools_for_public_health_practice_johns_hopkins_university.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/f5339b67-7084-47f8-98b7-5c3fd9093438_20210908_essential_e.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Surveillance Systems: Analysis, Dissemination, and Special Systems",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "In this course, we'll build on the previous lessons in this specialization to focus on some very specific skills related to public health surveillance. We'll learn how to get the most out of surveillance data analysis, focusing specifically on interpreting time trend data to detect temporal aberrations as well as person, place, and time in the context of surveillance data. We'll also explore strategies for the presentation of surveillance data and some of the complex legal elements that affect its use. We'll then turn our attention to surveillance of non-communicable chronic diseases and how the data can be used to support prevention efforts. Finally, we'll explore special surveillance systems, such as syndromic surveillance, antimicrobial resistance, and event-related surveillance. This course is designed for public health practitioners with a focus on those working on health surveillance in municipal, regional, state, provincial, or even national public health agencies. We really think that this course will help those with an interest in health surveillance to see which approaches are used in actual practice of public health.",
+          "URL": "https://www.coursera.org/learn/epidemiology-surveillance-systems-analysis",
+          "image": {
+            "alt": "20210909_surveillance_systems_analusis_dissemination_special_systems_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/efbd8f5e-e7ba-4854-9211-0dde82dde515_20210909_surveillanc.png"
           }
         },
         "linkedCompetences": [
@@ -1867,72 +1933,6 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Surveillance Systems: Analysis, Dissemination, and Special Systems",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "JOHNS HOPKINS UNIVERSITY",
-          "description": "In this course, we'll build on the previous lessons in this specialization to focus on some very specific skills related to public health surveillance. We'll learn how to get the most out of surveillance data analysis, focusing specifically on interpreting time trend data to detect temporal aberrations as well as person, place, and time in the context of surveillance data. We'll also explore strategies for the presentation of surveillance data and some of the complex legal elements that affect its use. We'll then turn our attention to surveillance of non-communicable chronic diseases and how the data can be used to support prevention efforts. Finally, we'll explore special surveillance systems, such as syndromic surveillance, antimicrobial resistance, and event-related surveillance. This course is designed for public health practitioners with a focus on those working on health surveillance in municipal, regional, state, provincial, or even national public health agencies. We really think that this course will help those with an interest in health surveillance to see which approaches are used in actual practice of public health.",
-          "URL": "https://www.coursera.org/learn/epidemiology-surveillance-systems-analysis",
-          "image": {
-            "alt": "20210909_surveillance_systems_analusis_dissemination_special_systems_johns_hopkins_university.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/efbd8f5e-e7ba-4854-9211-0dde82dde515_20210909_surveillanc.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Manejo del enfermo semicrítico y crítico por COVID-19",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "Universitat de BARCELONA",
-          "description": "Después de realizar este curso serás capaz de conocer los elementos clave del abordaje del paciente crítico y semicrítico por COVID-19, basados en la evidencia científica disponible y que puedan ayudarte en la toma de decisiones clínicas.\n\nCurso dirigido a los profesionales de medicina y enfermería, con conocimientos básicos en la atención a pacientes críticos y, que debido a la crisis sanitaria, atienden en las áreas de críticos o semicríticos COVID-19 y/o a estos pacientes fuera de su ubicación habitual. Además este curso puede suponer una oportunidad de repaso de contenidos a profesionales que ya trabajen en el ámbito de la Medicina/Enfermeria Crítica y Terapia Intensiva. ",
-          "URL": "https://www.coursera.org/learn/covid-19-esp",
-          "image": {
-            "alt": "20210904_manejo_enfermo_semicritico_critico_covid_19_universitat_barcelona.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2cc72ea4-1093-4a65-aae7-c2e451227f45_20210904_manejo_enfe.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "COVID-19 Contact Tracing",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "JOHNS HOPKINS UNIVERSITY",
-          "description": "The COVID-19 crisis has created an unprecedented need for contact tracing across the country, requiring thousands of people to learn key skills quickly. The job qualifications for contact tracing positions differ throughout the country and the world, with some new positions open to individuals with a high school diploma or equivalent. \n\nIn this introductory course, students will learn about the science of SARS-CoV-2 , including the infectious period, the clinical presentation of COVID-19, and the evidence for how SARS-CoV-2 is transmitted from person-to-person and why contact tracing can be such an effective public health intervention. Students will learn about how contact tracing is done, including how to build rapport with cases, identify their contacts, and support both cases and their contacts to stop transmission in their communities. The course will also cover several important ethical considerations around contact tracing, isolation, and quarantine. Finally, the course will identify some of the most common barriers to contact tracing efforts -- along with strategies to overcome them.",
-          "URL": "https://www.coursera.org/learn/covid-19-contact-tracing",
-          "image": {
-            "alt": "20210906_covid_19_contact_tracing.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/c1a1c670-c845-46f0-8d0c-e9248b413375_20210906_covid_19_co.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
@@ -1952,6 +1952,182 @@
             "name": "Abstract",
             "type": "technology"
           },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desing Thinknig: Inteligencia de datos",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "La inteligencia de datos, dentro del marco de la metodología design thinking, puede ayudar a que tus proyectos basados en recopilar y analizar gran cantidad de datos tengan más valor para tu empresa y tus clientes, ahorrando tiempo y dinero en su ejecución. Entiende por qué esta metodología de trabajo estimula el proceso creativo, el pensamiento lateral, el trabajo colaborativo y la resolución creativa de problemas, y cómo y por qué es el futuro de la producción y el análisis de datos. Finalmente, aprende a aplicarlo con éxito, paso a paso y de forma práctica, para que sea eficaz según tus propias necesidades.\n\n",
+          "URL": "https://www.linkedin.com/learning/design-thinking-inteligencia-de-datos",
+          "image": {
+            "alt": "20210909_arquitectura_de_software_diseño_de_sistemas_de_software_esencial_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/204e8764-af71-432c-b20b-f858c9b94d8b_20210909_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Arquitectura de software: De desarrollador a arquitecto o arquitecta",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "La transición desde el desarrollo de software hacia la arquitectura de software no siempre es fácil u obvia, pero te resultará mucho más sencillo entender cómo y por qué dar el paso con los consejos clave de este curso. Aprenderás los conceptos básicos de la arquitectura de software, recibirás consejos para potenciar tus habilidades y experiencia en el ámbito del desarrollo y descubrirás técnicas infalibles para hacer, poco a poco, la transición hacia tu nuevo rol de arquitecto o arquitecta de software.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-de-desarrollador-a-arquitecto-o-arquitecta",
+          "image": {
+            "alt": "20210809_arquitectura_de-software_de_desarrollador_a_arquitecto_o_arquitecta_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/dadcd5bf-a29e-41a3-b7be-7df389b6b362_20210809_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Arquitectura de software: Diseño de sistemas de software esencial ",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Aprende a diseñar y planificar sistemas de software con este contenido formativo que te instruye, desde las bases teóricas del diseño de software (requerimientos, modularidad, rendimiento, escalabilidad, resiliencia y seguridad, entre otros), hasta cómo utilizar las herramientas de uso común en el campo; pasando por una gran variedad de consejos útiles a la hora de enfrentarse a la implementación de proyectos de software, el diseño de los sistemas y los problemas que puedan surgir en la implementación.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-diseno-de-sistemas-de-software-esencial",
+          "image": {
+            "alt": "20210909_arquitectura_de_software_diseño_de_sistemas_de_software_esencial_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/56c8bf4b-af3c-4b87-b6dd-7cd3924d72d5_20210909_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Arquitectura de software: Creación de sistemas sustentables esencial",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Crea sistemas de software más sustentables que puedan permanecer en el tiempo, expandirse y madurar con la organización que los desarrolla. Este contenido formativo te instruirá en las bases conceptuales de arquitectura y diseño de software, el rol del arquitecto de software, el ciclo de vida del software, cultura organizacional y, por supuesto, técnicas, patrones de diseño y modulabilidad, así como análisis de la deuda técnica y la herencia, todo enfocado a crear sistemas más sustentables en el tiempo.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-creacion-de-sistemas-sustentables-esencial",
+          "image": {
+            "alt": "20210813_arquitectura_de_software_creacion_de_sistemas_sustentables_esencial_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2d40acf2-8ef7-4ff1-9f34-25fe720e2176_20210813_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Arquitectura de software: Patrones esencial",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Descubre el potencial de los patrones de diseño para crear sistemas de software. Este contenido te mostrará los principales patrones de diseño utilizados en la creación de software y cómo usarlos para crear sistemas sólidos, con buenas prácticas y usando soluciones probadas en la industria. Paso a paso, te introducirás en las bases conceptuales de los patrones de diseño de arquitectura y entenderás cómo funcionan, cómo solventar los problemas comunes al incorporarlos y, finalmente, cómo encontrar el patrón perfecto.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-patrones-esencial",
+          "image": {
+            "alt": "20210816_arquitectura_de_software_patrones_esencial_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/1ae2d43e-c47a-48da-abba-29bcf99c134d_20210816_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo ágil de software",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "El enfoque ágil y su interés por la entrega y la mejora continua, la colaboración y la apertura al cambio puede ayudar a que las empresas y los equipos optimicen tanto su productividad como la calidad de sus productos. En este curso, vamos a aprender los fundamentos de ágil para desarrolladores de software, así como las razones que hacen único a este planteamiento de la gestión de proyectos dentro del mundo del software. Vamos a explorar los principios de la filosofía Agile, así como sus implementaciones, tales como Scrum y la programación extrema, y vamos a ver ejemplos prácticos que reforzarán los conceptos que te explicamos en el curso.",
+          "URL": "https://www.linkedin.com/learning/desarrollo-agil-de-software",
+          "image": {
+            "alt": "20210818_desarrollo_agil_de_software_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/df2692ce-a5e3-4df5-ba85-111e4aab7977_20210818_desarrollo_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Fundamentos del teletrabajo",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "El teletrabajo está generando una revolución en la forma que trabajamos profesionales en el mundo entero, ya no es un beneficio exclusivo para dueños de empresas o artistas famosos. Hoy en día es accesible para la mayoría de trabajadores de los mas variados rubros.\n\nTe contaré aquí muchas de mis experiencias trabajando en diferentes partes del mundo para que reduzcas la curva de implementación y comiences a trabajar desde tu casa en el mínimo de tiempo y empieces a disfrutar la libertad del teletrabajo.",
+          "URL": "https://www.linkedin.com/learning/fundamentos-del-teletrabajo/presentacion-del-curso-fundamentos-del-teletrabajo?autoplay=true",
+          "image": {
+            "alt": "20210819_fundamentos_del_teletrabajo_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/642effa8-6ca2-4994-8bca-7062bc863b7b_20210819_fundamentos.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Fundamentos de Kanban para desarrollo de software",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Kanban es un método de administración de proyectos, sencillo y elegante que ayuda a controlar y mejorar los procesos de desarrollo. En este curso, aprenderemos a gestionar un tablero de Kanban y a adaptarlo a cualquier entorno de trabajo. Conoceremos las principales herramientas y métricas, y veremos una serie de trucos y consejos para que adaptes Kanban a tu entorno actual de trabajo. Exploraremos juntos los elementos clave de Kanban y cómo ponerlo en práctica mediante ejemplos realistas que te ayudarán a sacar el máximo provecho de este enfoque único para gestionar la colaboración y la producción.",
+          "URL": "https://www.linkedin.com/learning/fundamentos-de-kanban-para-desarrollo-de-software",
+          "image": {
+            "alt": "20210819_fundamentos_de_kanban_para_desarrollo_de_software_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/28167cc5-bb6b-40d2-b28b-b26e83beea8c_20210819_fundamentos.png"
+          }
+        },
+        "linkedCompetences": [
           {
             "name": "HTML",
             "type": "technology"
@@ -2137,94 +2313,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Desing Thinknig: Inteligencia de datos",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "La inteligencia de datos, dentro del marco de la metodología design thinking, puede ayudar a que tus proyectos basados en recopilar y analizar gran cantidad de datos tengan más valor para tu empresa y tus clientes, ahorrando tiempo y dinero en su ejecución. Entiende por qué esta metodología de trabajo estimula el proceso creativo, el pensamiento lateral, el trabajo colaborativo y la resolución creativa de problemas, y cómo y por qué es el futuro de la producción y el análisis de datos. Finalmente, aprende a aplicarlo con éxito, paso a paso y de forma práctica, para que sea eficaz según tus propias necesidades.\n\n",
-          "URL": "https://www.linkedin.com/learning/design-thinking-inteligencia-de-datos",
-          "image": {
-            "alt": "20210909_arquitectura_de_software_diseño_de_sistemas_de_software_esencial_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/204e8764-af71-432c-b20b-f858c9b94d8b_20210909_arquitectur.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Arquitectura de software: De desarrollador a arquitecto o arquitecta",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "La transición desde el desarrollo de software hacia la arquitectura de software no siempre es fácil u obvia, pero te resultará mucho más sencillo entender cómo y por qué dar el paso con los consejos clave de este curso. Aprenderás los conceptos básicos de la arquitectura de software, recibirás consejos para potenciar tus habilidades y experiencia en el ámbito del desarrollo y descubrirás técnicas infalibles para hacer, poco a poco, la transición hacia tu nuevo rol de arquitecto o arquitecta de software.",
-          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-de-desarrollador-a-arquitecto-o-arquitecta",
-          "image": {
-            "alt": "20210809_arquitectura_de-software_de_desarrollador_a_arquitecto_o_arquitecta_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/dadcd5bf-a29e-41a3-b7be-7df389b6b362_20210809_arquitectur.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Arquitectura de software: Diseño de sistemas de software esencial ",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Aprende a diseñar y planificar sistemas de software con este contenido formativo que te instruye, desde las bases teóricas del diseño de software (requerimientos, modularidad, rendimiento, escalabilidad, resiliencia y seguridad, entre otros), hasta cómo utilizar las herramientas de uso común en el campo; pasando por una gran variedad de consejos útiles a la hora de enfrentarse a la implementación de proyectos de software, el diseño de los sistemas y los problemas que puedan surgir en la implementación.",
-          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-diseno-de-sistemas-de-software-esencial",
-          "image": {
-            "alt": "20210909_arquitectura_de_software_diseño_de_sistemas_de_software_esencial_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/56c8bf4b-af3c-4b87-b6dd-7cd3924d72d5_20210909_arquitectur.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Arquitectura de software: Creación de sistemas sustentables esencial",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Crea sistemas de software más sustentables que puedan permanecer en el tiempo, expandirse y madurar con la organización que los desarrolla. Este contenido formativo te instruirá en las bases conceptuales de arquitectura y diseño de software, el rol del arquitecto de software, el ciclo de vida del software, cultura organizacional y, por supuesto, técnicas, patrones de diseño y modulabilidad, así como análisis de la deuda técnica y la herencia, todo enfocado a crear sistemas más sustentables en el tiempo.",
-          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-creacion-de-sistemas-sustentables-esencial",
-          "image": {
-            "alt": "20210813_arquitectura_de_software_creacion_de_sistemas_sustentables_esencial_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2d40acf2-8ef7-4ff1-9f34-25fe720e2176_20210813_arquitectur.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "Scrum avanzado PMI",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
@@ -2268,94 +2356,6 @@
             "name": "Google Data Studio",
             "type": "technology"
           },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Arquitectura de software: Patrones esencial",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Descubre el potencial de los patrones de diseño para crear sistemas de software. Este contenido te mostrará los principales patrones de diseño utilizados en la creación de software y cómo usarlos para crear sistemas sólidos, con buenas prácticas y usando soluciones probadas en la industria. Paso a paso, te introducirás en las bases conceptuales de los patrones de diseño de arquitectura y entenderás cómo funcionan, cómo solventar los problemas comunes al incorporarlos y, finalmente, cómo encontrar el patrón perfecto.",
-          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-patrones-esencial",
-          "image": {
-            "alt": "20210816_arquitectura_de_software_patrones_esencial_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/1ae2d43e-c47a-48da-abba-29bcf99c134d_20210816_arquitectur.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Desarrollo ágil de software",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "El enfoque ágil y su interés por la entrega y la mejora continua, la colaboración y la apertura al cambio puede ayudar a que las empresas y los equipos optimicen tanto su productividad como la calidad de sus productos. En este curso, vamos a aprender los fundamentos de ágil para desarrolladores de software, así como las razones que hacen único a este planteamiento de la gestión de proyectos dentro del mundo del software. Vamos a explorar los principios de la filosofía Agile, así como sus implementaciones, tales como Scrum y la programación extrema, y vamos a ver ejemplos prácticos que reforzarán los conceptos que te explicamos en el curso.",
-          "URL": "https://www.linkedin.com/learning/desarrollo-agil-de-software",
-          "image": {
-            "alt": "20210818_desarrollo_agil_de_software_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/df2692ce-a5e3-4df5-ba85-111e4aab7977_20210818_desarrollo_.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Fundamentos del teletrabajo",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "El teletrabajo está generando una revolución en la forma que trabajamos profesionales en el mundo entero, ya no es un beneficio exclusivo para dueños de empresas o artistas famosos. Hoy en día es accesible para la mayoría de trabajadores de los mas variados rubros.\n\nTe contaré aquí muchas de mis experiencias trabajando en diferentes partes del mundo para que reduzcas la curva de implementación y comiences a trabajar desde tu casa en el mínimo de tiempo y empieces a disfrutar la libertad del teletrabajo.",
-          "URL": "https://www.linkedin.com/learning/fundamentos-del-teletrabajo/presentacion-del-curso-fundamentos-del-teletrabajo?autoplay=true",
-          "image": {
-            "alt": "20210819_fundamentos_del_teletrabajo_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/642effa8-6ca2-4994-8bca-7062bc863b7b_20210819_fundamentos.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Fundamentos de Kanban para desarrollo de software",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Kanban es un método de administración de proyectos, sencillo y elegante que ayuda a controlar y mejorar los procesos de desarrollo. En este curso, aprenderemos a gestionar un tablero de Kanban y a adaptarlo a cualquier entorno de trabajo. Conoceremos las principales herramientas y métricas, y veremos una serie de trucos y consejos para que adaptes Kanban a tu entorno actual de trabajo. Exploraremos juntos los elementos clave de Kanban y cómo ponerlo en práctica mediante ejemplos realistas que te ayudarán a sacar el máximo provecho de este enfoque único para gestionar la colaboración y la producción.",
-          "URL": "https://www.linkedin.com/learning/fundamentos-de-kanban-para-desarrollo-de-software",
-          "image": {
-            "alt": "20210819_fundamentos_de_kanban_para_desarrollo_de_software_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/28167cc5-bb6b-40d2-b28b-b26e83beea8c_20210819_fundamentos.png"
-          }
-        },
-        "linkedCompetences": [
           {
             "name": "HTML",
             "type": "technology"
@@ -2460,6 +2460,36 @@
           },
           {
             "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Prevención y control de infecciones (PCI) causadas por el virus de la COVID-19",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "En este curso se suministra información sobre lo que deben hacer los establecimientos de salud con el fin de estar preparados para responder a un caso de infección por un nuevo virus respiratorio como el nuevo coronavirus, reconocer un caso cuando ocurre y aplicar adecuadamente las medidas de PCI a fin de que la infección no se transmita al personal de salud, otros pacientes ni otras personas en el establecimiento de salud.\n\nEste curso de capacitación se dirige a los trabajadores de salud y los profesionales de salud pública, puesto que se centra en la prevención y el control de infecciones.",
+          "URL": "https://openwho.org/dashboard/documents",
+          "image": {
+            "alt": "20210406_prevencion_y_control_de_infecciones_pci_causadas_por_el_virus_covid_19_who.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/3046fc8f-f082-46f6-a51d-6108737dca92_20210406_prevencion_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
             "type": "technology"
           }
         ]
@@ -2635,36 +2665,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Prevención y control de infecciones (PCI) causadas por el virus de la COVID-19",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-04-01",
-        "institution": {
-          "name": "World Health Organization",
-          "description": "En este curso se suministra información sobre lo que deben hacer los establecimientos de salud con el fin de estar preparados para responder a un caso de infección por un nuevo virus respiratorio como el nuevo coronavirus, reconocer un caso cuando ocurre y aplicar adecuadamente las medidas de PCI a fin de que la infección no se transmita al personal de salud, otros pacientes ni otras personas en el establecimiento de salud.\n\nEste curso de capacitación se dirige a los trabajadores de salud y los profesionales de salud pública, puesto que se centra en la prevención y el control de infecciones.",
-          "URL": "https://openwho.org/dashboard/documents",
-          "image": {
-            "alt": "20210406_prevencion_y_control_de_infecciones_pci_causadas_por_el_virus_covid_19_who.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/3046fc8f-f082-46f6-a51d-6108737dca92_20210406_prevencion_.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "Protecting Your Instance with Security Groups (Spanish)",
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
@@ -2776,6 +2776,158 @@
           },
           {
             "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Exploring the Machine Learning Toolset (Spanish)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "Exploring the Machine Learning Toolset (Spanish)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210301_exploring_the_machine_learning_toolset_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/ad69545e-3cb1-4cfa-8c81-5594ead0c7f2_20210301_exploring_t.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Exploring the Machine Learning Toolset (Spanish)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "Exploring the Machine Learning Toolset (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210301_exploring_the_machine_learning_toolset_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/6d1f780b-bc43-47f5-818b-a49cbf294422_20210301_exploring_t.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Clasroom)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Clasroom)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210319_aws_solutions_training_for_partners_aws_for_microsoft_workloads_business_classroom.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/4c4c5692-b9d8-4ed0-912d-2ac872686e00_20210319_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: Well-Architected Best Practices-Technical (Spanish)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: Well-Architected Best Practices-Technical (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210322_aws_solutions_training_for_partners_well_architected_best_practices_technical_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/0e700064-dfcf-43fd-a683-7baa7dcda75e_20210322_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
             "type": "technology"
           },
           {
@@ -2991,120 +3143,6 @@
           "image": {
             "alt": "20210331_machine_learning_for_business_challenges_spanish.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/b1b99799-855d-4a36-afc9-3078396ee330_20210331_machine_lea.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Exploring the Machine Learning Toolset (Spanish)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "Exploring the Machine Learning Toolset (Spanish)",
-          "URL": "https://www.aws.training/Account/Transcript/Archived",
-          "image": {
-            "alt": "20210301_exploring_the_machine_learning_toolset_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/6d1f780b-bc43-47f5-818b-a49cbf294422_20210301_exploring_t.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Clasroom)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Clasroom)",
-          "URL": "https://www.aws.training/Account/Transcript/Archived",
-          "image": {
-            "alt": "20210319_aws_solutions_training_for_partners_aws_for_microsoft_workloads_business_classroom.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/4c4c5692-b9d8-4ed0-912d-2ac872686e00_20210319_aws_solutio.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "AWS Solutions Training for Partners: Well-Architected Best Practices-Technical (Spanish)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Solutions Training for Partners: Well-Architected Best Practices-Technical (Spanish)",
-          "URL": "https://www.aws.training/Account/Transcript/Archived",
-          "image": {
-            "alt": "20210322_aws_solutions_training_for_partners_well_architected_best_practices_technical_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/0e700064-dfcf-43fd-a683-7baa7dcda75e_20210322_aws_solutio.png"
           }
         },
         "linkedCompetences": [
@@ -3409,44 +3447,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "AWS Cloud Practioner Essentials (Second Edition) (Spanish)",
-        "startDate": "2021-02-01",
-        "finishDate": "2021-02-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Cloud Practtioner Essentials (Second Edition) (Spanish)",
-          "URL": "https://www.aws.training/Account/Transcript/Archived",
-          "image": {
-            "alt": "20210227_aws_cloud_practitioner_essential_second_edition_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/a1fbdfed-8002-4251-aa39-2cf0919610ff_20210227_aws_cloud_p.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "Introducción a la farmacovigilancia - Spanish",
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
@@ -3514,6 +3514,48 @@
         "linkedCompetences": [
           {
             "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso Introducción a Amazon Web Services (AWS) desde cero",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Bienvenido al curso de introducción a Amazon Web Services (AWS) desde cero. Aprenda Cloud Computing con Amazon AWS de la mano de un experto certificado en Amazon AWS: José María González.  Con este curso aumentara sus habilidades y conocimientos para construir su infraestructura en la nube de AWS.\n\nEn este curso podrá gestionar múltiples servicios de AWS como S3, EC2, ELB, RDS, AutoScaling, Lamdba, Route 53, CloudWatch y un largo etcétera para el despliegue de infraestructuras y aplicaciones escalables en la nube de Amazon.\n\nRealizará prácticas en AWS de forma gratuita con la capa gratuita Amazon ( Free Tier ).\n\nLa nube de Amazon Web Services (AWS) es la más popular para el desarrollo de aplicaciones, soluciones de cloud computing y almacenaje de datos en la nube.",
+          "URL": "https://www.udemy.com/course/curso-introduccion-amazon-web-services-aws-desde-cero/",
+          "image": {
+            "alt": "20210222_curso_introduccion_amazon_web_services_desde_cero_udemy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/e4696a58-8dc4-4003-a278-9f64035f5346_20210222_curso_intro.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
             "type": "technology"
           },
           {
@@ -3605,16 +3647,16 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Demystifying AI/ML/DL (Spanish)",
+        "name": "AWS Cloud Practioner Essentials (Second Edition) (Spanish)",
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
         "institution": {
           "name": "AWS training and certification",
-          "description": "Demystifying AI/ML/DL (Spanish)",
+          "description": "AWS Cloud Practtioner Essentials (Second Edition) (Spanish)",
           "URL": "https://www.aws.training/Account/Transcript/Archived",
           "image": {
-            "alt": "20210228_demystifying_ai_ml_dl_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/f7c16660-f5a2-4eea-9b3f-008ff1f8d131_20210228_demystifyin.png"
+            "alt": "20210227_aws_cloud_practitioner_essential_second_edition_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/a1fbdfed-8002-4251-aa39-2cf0919610ff_20210227_aws_cloud_p.png"
           }
         },
         "linkedCompetences": [
@@ -3643,16 +3685,16 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Curso Introducción a Amazon Web Services (AWS) desde cero",
+        "name": "Demystifying AI/ML/DL (Spanish)",
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
         "institution": {
-          "name": "Udemy",
-          "description": "Bienvenido al curso de introducción a Amazon Web Services (AWS) desde cero. Aprenda Cloud Computing con Amazon AWS de la mano de un experto certificado en Amazon AWS: José María González.  Con este curso aumentara sus habilidades y conocimientos para construir su infraestructura en la nube de AWS.\n\nEn este curso podrá gestionar múltiples servicios de AWS como S3, EC2, ELB, RDS, AutoScaling, Lamdba, Route 53, CloudWatch y un largo etcétera para el despliegue de infraestructuras y aplicaciones escalables en la nube de Amazon.\n\nRealizará prácticas en AWS de forma gratuita con la capa gratuita Amazon ( Free Tier ).\n\nLa nube de Amazon Web Services (AWS) es la más popular para el desarrollo de aplicaciones, soluciones de cloud computing y almacenaje de datos en la nube.",
-          "URL": "https://www.udemy.com/course/curso-introduccion-amazon-web-services-aws-desde-cero/",
+          "name": "AWS training and certification",
+          "description": "Demystifying AI/ML/DL (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
           "image": {
-            "alt": "20210222_curso_introduccion_amazon_web_services_desde_cero_udemy.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/e4696a58-8dc4-4003-a278-9f64035f5346_20210222_curso_intro.png"
+            "alt": "20210228_demystifying_ai_ml_dl_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/f7c16660-f5a2-4eea-9b3f-008ff1f8d131_20210228_demystifyin.png"
           }
         },
         "linkedCompetences": [
@@ -3666,10 +3708,6 @@
           },
           {
             "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Abstract",
             "type": "technology"
           },
           {
@@ -3785,36 +3823,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Claves para Gestionar personas",
-        "startDate": "2020-12-01",
-        "finishDate": "2020-12-01",
-        "institution": {
-          "name": "IESE Business School University of Navarra",
-          "description": "¿Te has preguntado alguna vez qué criterios utilizan las empresas para contratar o retribuir a las personas? ¿Por qué no siempre entendemos los planes de promoción?. El objetivo de este curso es conocer algunas herramientas prácticas en materia de Recursos Humanos y aprender a gestionar personas y liderar el talento con la mayor eficacia posible.",
-          "URL": "https://es.coursera.org/",
-          "image": {
-            "alt": "20201227_claves_para_gestionar_personas_iese.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/6f95811c-e183-4696-8ae3-fa896e0c39fc_20201227_claves_para.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "Desarrollo de Apps Móviles (40 h)",
         "startDate": "2020-12-01",
         "finishDate": "2020-12-01",
@@ -3874,6 +3882,36 @@
           },
           {
             "name": "Google Tag Manager",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Claves para Gestionar personas",
+        "startDate": "2020-12-01",
+        "finishDate": "2020-12-01",
+        "institution": {
+          "name": "IESE Business School University of Navarra",
+          "description": "¿Te has preguntado alguna vez qué criterios utilizan las empresas para contratar o retribuir a las personas? ¿Por qué no siempre entendemos los planes de promoción?. El objetivo de este curso es conocer algunas herramientas prácticas en materia de Recursos Humanos y aprender a gestionar personas y liderar el talento con la mayor eficacia posible.",
+          "URL": "https://es.coursera.org/",
+          "image": {
+            "alt": "20201227_claves_para_gestionar_personas_iese.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/6f95811c-e183-4696-8ae3-fa896e0c39fc_20201227_claves_para.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
             "type": "technology"
           }
         ]
