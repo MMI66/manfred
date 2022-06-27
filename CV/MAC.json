@@ -2363,6 +2363,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS SUMMIT ONLINE EMEA",
+        "startDate": "2021-06-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "AWS de Amazon Web Services",
+          "description": "AWS SUMMIT ONLINE EMEA",
+          "URL": "https://aws.amazon.com/es/",
+          "image": {
+            "alt": "20210609_certificado_asistencia_aws_summit_online-emea.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/6df105a7-8295-4aca-b896-5a21f502de4d_20210609_certificado.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "AWS SUMMIT ONLINE EMEA",
