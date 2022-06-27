@@ -3133,6 +3133,48 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Curso Introducción a Amazon Web Services (AWS) desde cero",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Bienvenido al curso de introducción a Amazon Web Services (AWS) desde cero. Aprenda Cloud Computing con Amazon AWS de la mano de un experto certificado en Amazon AWS: José María González.  Con este curso aumentara sus habilidades y conocimientos para construir su infraestructura en la nube de AWS.\n\nEn este curso podrá gestionar múltiples servicios de AWS como S3, EC2, ELB, RDS, AutoScaling, Lamdba, Route 53, CloudWatch y un largo etcétera para el despliegue de infraestructuras y aplicaciones escalables en la nube de Amazon.\n\nRealizará prácticas en AWS de forma gratuita con la capa gratuita Amazon ( Free Tier ).\n\nLa nube de Amazon Web Services (AWS) es la más popular para el desarrollo de aplicaciones, soluciones de cloud computing y almacenaje de datos en la nube.",
+          "URL": "https://www.udemy.com/course/curso-introduccion-amazon-web-services-aws-desde-cero/",
+          "image": {
+            "alt": "20210222_curso_introduccion_amazon_web_services_desde_cero_udemy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/34f6837f-25c4-44d4-9aa0-97ea65f603ac_20210222_curso_intro.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Introducción a la farmacovigilancia - Spanish",
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
