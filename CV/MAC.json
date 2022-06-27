@@ -2693,6 +2693,44 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Understanding Amazon EBS Volume Encryption (Spanish)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "Understanding Amazon EBS Volume Encryption (Spanish)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210430_understanding_amazon_ebs_volume_encryptation_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/f667af6a-adc8-4328-94b4-2b85ad745d55_20210430_understandi.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Prevención y control de infecciones (PCI) causadas por el virus de la COVID-19",
