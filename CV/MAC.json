@@ -1737,6 +1737,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Surveillance Systems: Analysis, Dissemination, and Special Systems",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "In this course, we'll build on the previous lessons in this specialization to focus on some very specific skills related to public health surveillance. We'll learn how to get the most out of surveillance data analysis, focusing specifically on interpreting time trend data to detect temporal aberrations as well as person, place, and time in the context of surveillance data. We'll also explore strategies for the presentation of surveillance data and some of the complex legal elements that affect its use. We'll then turn our attention to surveillance of non-communicable chronic diseases and how the data can be used to support prevention efforts. Finally, we'll explore special surveillance systems, such as syndromic surveillance, antimicrobial resistance, and event-related surveillance. This course is designed for public health practitioners with a focus on those working on health surveillance in municipal, regional, state, provincial, or even national public health agencies. We really think that this course will help those with an interest in health surveillance to see which approaches are used in actual practice of public health.",
+          "URL": "https://www.coursera.org/learn/epidemiology-surveillance-systems-analysis",
+          "image": {
+            "alt": "20210909_surveillance_systems_analusis_dissemination_special_systems_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/efbd8f5e-e7ba-4854-9211-0dde82dde515_20210909_surveillanc.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Manejo del enfermo semicrítico y crítico por COVID-19",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
