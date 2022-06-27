@@ -2903,6 +2903,44 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210324_aws_solutions_training_for_partners_migrating_to_aws_business_clasroom.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/90c0ca0f-67ad-4ed2-a5b3-e841356d888d_20210324_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Exploring the Machine Learning Toolset (Spanish)",
