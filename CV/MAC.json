@@ -1691,6 +1691,28 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Manejo del enfermo semicrítico y crítico por COVID-19",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "Universitat de BARCELONA",
+          "description": "Después de realizar este curso serás capaz de conocer los elementos clave del abordaje del paciente crítico y semicrítico por COVID-19, basados en la evidencia científica disponible y que puedan ayudarte en la toma de decisiones clínicas.\n\nCurso dirigido a los profesionales de medicina y enfermería, con conocimientos básicos en la atención a pacientes críticos y, que debido a la crisis sanitaria, atienden en las áreas de críticos o semicríticos COVID-19 y/o a estos pacientes fuera de su ubicación habitual. Además este curso puede suponer una oportunidad de repaso de contenidos a profesionales que ya trabajen en el ámbito de la Medicina/Enfermeria Crítica y Terapia Intensiva. ",
+          "URL": "https://www.coursera.org/learn/covid-19-esp",
+          "image": {
+            "alt": "20210904_manejo_enfermo_semicritico_critico_covid_19_universitat_barcelona.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2cc72ea4-1093-4a65-aae7-c2e451227f45_20210904_manejo_enfe.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
