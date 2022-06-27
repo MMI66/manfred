@@ -3217,6 +3217,44 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "AWS Technical Professional (Spanish)",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Technical Professional (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210225_aws_technical_professional_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/1c060d18-66ed-4bf9-8611-b0a9aedd702a_20210225_aws_technic.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Introducción a la farmacovigilancia - Spanish",
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
