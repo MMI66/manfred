@@ -1939,6 +1939,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Scrum avanzado PMI",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Cuando ya dominas los fundamentos de Scrum, puedes empezar a profundizar más en este marco de trabajo tan popular. Aprende en este curso técnicas avanzadas de Scrum que harán que tú y tu equipo sean incluso más eficaces. Kelley O'Connell empieza el curso repasando algunos fundamentos de Scrum y explicando cómo optimizar la eficacia del propietario del producto y del Scrum Master. Luego, enseña el rol del propietario del producto en profundidad y cómo puedes realzar sus habilidades para que el producto sea insuperable. A continuación, explora el papel del Scrum Master y explica cómo puede perfeccionar sus técnicas para interceder por el equipo, y cómo eliminar obstáculos que se pueden interponer en el camino hacia el éxito.",
+          "URL": "https://www.linkedin.com/learning/scrum-avanzado",
+          "image": {
+            "alt": "20210820_scrum_avanzado_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/4a10d08c-019f-43f9-b7c8-143ff25e1e89_20210820_scrum_avanz.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Arquitectura de software: Diseño de sistemas de software esencial ",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
