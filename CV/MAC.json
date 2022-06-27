@@ -3485,6 +3485,76 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Desarrollo de Apps Móviles (40 h)",
+        "startDate": "2020-12-01",
+        "finishDate": "2020-12-01",
+        "institution": {
+          "name": "Google Actívate",
+          "description": "Desarrollo de Apps Móviles\nDel nacimiento del teléfono móvil a las apps\nDiseño y creación de apps\nPlataformas de desarrollo Android\nPlataformas de desarrollo - ICS\nPlataformas de desarrollo - Desarrollo Multiplataforma\nRealidad aumentada\nStores, comercialización y análisis de usuarios\nLa industria de las Apps - Experiencias",
+          "URL": "https://learndigital.withgoogle.com/activate/",
+          "image": {
+            "alt": "20201205_desarrollo_apps_moviles_google_activate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/4abcc477-6c53-4c6a-841c-f0d6564d5db7_20201205_desarrollo_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Google AdManager",
+            "type": "technology"
+          },
+          {
+            "name": "Google AdWords",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Apps Script",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "Google Data Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Google Earth Engine",
+            "type": "technology"
+          },
+          {
+            "name": "Google Maps",
+            "type": "technology"
+          },
+          {
+            "name": "Google Optimize",
+            "type": "technology"
+          },
+          {
+            "name": "Google Sheets",
+            "type": "technology"
+          },
+          {
+            "name": "Google Tag Manager",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Claves para Gestionar personas",
