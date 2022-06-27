@@ -1785,6 +1785,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Arquitectura de software: Creación de sistemas sustentables esencial",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Crea sistemas de software más sustentables que puedan permanecer en el tiempo, expandirse y madurar con la organización que los desarrolla. Este contenido formativo te instruirá en las bases conceptuales de arquitectura y diseño de software, el rol del arquitecto de software, el ciclo de vida del software, cultura organizacional y, por supuesto, técnicas, patrones de diseño y modulabilidad, así como análisis de la deuda técnica y la herencia, todo enfocado a crear sistemas más sustentables en el tiempo.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-creacion-de-sistemas-sustentables-esencial",
+          "image": {
+            "alt": "20210813_arquitectura_de_software_creacion_de_sistemas_sustentables_esencial_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2d40acf2-8ef7-4ff1-9f34-25fe720e2176_20210813_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "AWS SUMMIT ONLINE EMEA",
         "startDate": "2021-06-01",
         "finishDate": "2021-06-01",
