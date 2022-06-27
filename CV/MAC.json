@@ -2005,6 +2005,36 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "SARS-CoV-2 Protein Modeling and Drug Docking",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "coursera project network",
+          "description": "In this 1-hour long project-based course, you will construct a 3D structure of a SARS-CoV-2 protein sequence using homology modeling and perform molecular docking of drugs against this protein molecule and infer protein-drug interaction. We will accomplish it in by completing each task in the project which includes\n\n- Model protein structures from sequence data\n- Process proteins and ligands for docking procedure\n- Molecular docking of drugs against protein molecules",
+          "URL": "https://www.coursera.org/projects/sars-cov-2-protein-modeling-and-drug-docking",
+          "image": {
+            "alt": "20210825_sars_cov_2_protein _modeling_drug_docking_coursera_project_network.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/87b27a23-fa5e-4625-99ae-88f4702da686_20210825_sars_cov_2_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Google Data Studio",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Arquitectura de software: Patrones esencial",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
