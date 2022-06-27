@@ -1763,6 +1763,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Arquitectura de software: Diseño de sistemas de software esencial ",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Aprende a diseñar y planificar sistemas de software con este contenido formativo que te instruye, desde las bases teóricas del diseño de software (requerimientos, modularidad, rendimiento, escalabilidad, resiliencia y seguridad, entre otros), hasta cómo utilizar las herramientas de uso común en el campo; pasando por una gran variedad de consejos útiles a la hora de enfrentarse a la implementación de proyectos de software, el diseño de los sistemas y los problemas que puedan surgir en la implementación.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-diseno-de-sistemas-de-software-esencial",
+          "image": {
+            "alt": "20210909_arquitectura_de_software_diseño_de_sistemas_de_software_esencial_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/56c8bf4b-af3c-4b87-b6dd-7cd3924d72d5_20210909_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "AWS SUMMIT ONLINE EMEA",
         "startDate": "2021-06-01",
         "finishDate": "2021-06-01",
