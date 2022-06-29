@@ -1657,6 +1657,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Inicio de sesión de usuarios con Azure Active Directory en una aplicación web de Java",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Inicio de sesión de usuarios con Azure Active Directory en una aplicación web de Java.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220610_inicio_de_sesion_de_usuarios_con_azure_active_directory_en_una_aplicacion_web_de_java_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/c63bf71e-9400-42c5-90ce-72dad4aba028_20220610_inicio_de_s.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
