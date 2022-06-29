@@ -1565,6 +1565,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Aspectos básicos de Azure, parte 1: Descripción de los conceptos básicos de Azure",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Aspectos básicos de Azure, parte 1: Descripción de los conceptos básicos de Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220524_aspectos_basicos_de_azure_parte_1_descripcion_de_los_conceptos_basicos_de_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/034fab68-d982-4957-80fe-a010cc1a4e9b_20220524_aspectos_ba.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
         "startDate": "2022-03-01",
         "finishDate": "2022-06-01",
