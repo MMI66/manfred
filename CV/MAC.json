@@ -2133,6 +2133,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Fundamentos de Extreme Programming para desarrollo de software",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "La programación extrema o Extreme Programming es una metodología de desarrollo de software eficiente y adaptable orientada a entregar el producto a tiempo. Con ella, los proyectos imposibles, con demandas cambiantes y clientes difíciles pueden convertirse en afinadas máquinas de productividad. En este curso, veremos las prácticas, los valores y los principios de la programación extrema, y cómo ponerlos en práctica. Vamos a llevar la producción de tu proyecto hasta niveles extremos.",
+          "URL": "https://www.linkedin.com/learning/fundamentos-de-extreme-programming-para-desarrollo-de-software",
+          "image": {
+            "alt": "20210820_fundamentos_de_extremme_programming_para_desarrollo_de_software_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/512464ac-7408-4804-b2f8-0ee86f9f6860_20210820_fundamentos.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
