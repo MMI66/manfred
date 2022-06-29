@@ -1535,6 +1535,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Elección de una solución de aprovisionamiento de proceso para la aplicación",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Elección de una solución de aprovisionamiento de proceso para la aplicación.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.\n",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220526_eleccion_de_una_solucion_de_aprovisionamiento_de_proceso_para_la_aplicacion_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/aa715b21-f3b5-4a00-86a4-e899480ed670_20220526_eleccion_de.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Descripción de los componentes principales de la arquitectura de Azure",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
@@ -1725,6 +1755,36 @@
           "image": {
             "alt": "20220525_seleccion_de_un_enfoque_de_almacenamiento_de_datos_de_azure_microsoft.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/1446e59f-bb71-44d7-a2ab-a96bcfa20ac8_20220525_seleccion_d.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Administración de máquinas virtuales con la CLI de Azure",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Administración de máquinas virtuales con la CLI de Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220526_administracion_de_maquinas_virtuales_con_la_cli_de_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/9e26f6be-113a-465f-bdd8-e6900cb42206_20220526_administrac.png"
           }
         },
         "linkedCompetences": [
