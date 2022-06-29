@@ -1685,6 +1685,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Selección de un enfoque de almacenamiento de datos en Azure",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Selección de un enfoque de almacenamiento de datos en Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220525_seleccion_de_un_enfoque_de_almacenamiento_de_datos_de_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/1446e59f-bb71-44d7-a2ab-a96bcfa20ac8_20220525_seleccion_d.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
         "startDate": "2022-03-01",
         "finishDate": "2022-06-01",
