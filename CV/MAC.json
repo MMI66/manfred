@@ -1717,6 +1717,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Resolución de amenazas de seguridad con Azure Security Center",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Resolución de amenazas de seguridad con Azure Security Center.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220610_resolucion_de_las_amenazas_de_seguridad_con_azure_security_center_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/e03b464c-3ce9-4116-bb1f-361a06d51d3d_20220610_resolucion_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
