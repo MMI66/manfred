@@ -2195,6 +2195,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Protección de las máquinas virtuales con Azure Backup",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Protección de las máquinas virtuales con Azure Backup.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220530_proteccion_de_las_maquinas_virtuales_con_azure_backup_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/ad5d09cb-815a-45c2-ac8d-80a96d68bfe2_20220530_proteccion_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
         "startDate": "2022-03-01",
         "finishDate": "2022-06-01",
