@@ -1357,6 +1357,96 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Acceso seguro a las aplicaciones con servicios de identidad de Azure",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Acceso seguro a las aplicaciones con servicios de identidad de Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220601_diseño_de_una_solucion_de_proceso_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/89d962ab-7897-4083-bd91-cb303b608531_20220601_diseno_de_u.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Supervisión, diagnóstico y solución de problemas de Azure Storage",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Supervisión, diagnóstico y solución de problemas de Azure Storage.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220601_diseño_de_una_solucion_de_proceso_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/b4de78b4-f054-4e36-9355-f89bd8dda73d_20220601_diseno_de_u.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Diseño de una solución de proceso",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Diseño de una solución de proceso.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220601_diseño_de_una_solucion_de_proceso_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/0d8003a4-5afb-4867-8383-ca647de0c061_20220601_diseno_de_u.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
@@ -2355,96 +2445,6 @@
           "image": {
             "alt": "20220531_migracion_de_la_arquitectura_continuidad_empresarial_y_recuperacion_ante_desastres_en_azure_microsoft.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/c4fe8e97-2ab4-4f8c-8ffc-d203731ee383_20220531_migracion_d.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          },
-          {
-            "name": "Azure Functions",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Acceso seguro a las aplicaciones con servicios de identidad de Azure",
-        "startDate": "2022-05-01",
-        "finishDate": "2022-05-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Acceso seguro a las aplicaciones con servicios de identidad de Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
-          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
-          "image": {
-            "alt": "20220601_aaceso_seguro_a_las_aplicaciones_con_servicios_de_identidad_de_azure_microsoft.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/27d0fe19-c320-4ead-aeec-74c0552a7726_20220601_aaceso_segu.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          },
-          {
-            "name": "Azure Functions",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Supervisión, diagnóstico y solución de problemas de Azure Storage",
-        "startDate": "2022-05-01",
-        "finishDate": "2022-05-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Supervisión, diagnóstico y solución de problemas de Azure Storage.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
-          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
-          "image": {
-            "alt": "20220601_supervision_diagnostico_y_solucion_de_problemas_de_azure_storage_microsoft.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/82209b66-c057-4fd1-a9ae-f624a7d89fd3_20220601_supervision.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          },
-          {
-            "name": "Azure Functions",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Diseño de una solución de proceso",
-        "startDate": "2022-05-01",
-        "finishDate": "2022-05-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Diseño de una solución de proceso.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
-          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
-          "image": {
-            "alt": "20220601_diseño_de_una_solucion_de_proceso_microsoft.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/e3b637fe-6e56-4d03-b4bf-cb4265f509d8_20220601_diseno_de_u.png"
           }
         },
         "linkedCompetences": [
