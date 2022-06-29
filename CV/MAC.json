@@ -2089,6 +2089,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Fundamentos de Kanban para desarrollo de software",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Kanban es un método de administración de proyectos, sencillo y elegante que ayuda a controlar y mejorar los procesos de desarrollo. En este curso, aprenderemos a gestionar un tablero de Kanban y a adaptarlo a cualquier entorno de trabajo. Conoceremos las principales herramientas y métricas, y veremos una serie de trucos y consejos para que adaptes Kanban a tu entorno actual de trabajo. Exploraremos juntos los elementos clave de Kanban y cómo ponerlo en práctica mediante ejemplos realistas que te ayudarán a sacar el máximo provecho de este enfoque único para gestionar la colaboración y la producción",
+          "URL": "https://www.linkedin.com/learning/fundamentos-de-kanban-para-desarrollo-de-software",
+          "image": {
+            "alt": "20210819_fundamentos_de_kanban_para_desarrollo_de_software_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/959729a6-9bd2-42e9-ad78-c746d68ebd1b_20210819_fundamentos.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
