@@ -1595,6 +1595,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Elección del mejor servicio de Azure para automatizar los procesos de negocio",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Elección del mejor servicio de Azure para automatizar los procesos de negocio.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220527_eleccion_del_mejor_servicio_de_azure_para_automatizar_los_procesos_de_negocio_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/2ad57f56-48cf-4bae-983b-d6699ba32756_20220527_eleccion_de.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Descripción de los componentes principales de la arquitectura de Azure",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
