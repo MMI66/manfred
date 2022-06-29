@@ -1385,16 +1385,16 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Introducción a los aspectos básicos de Azure",
+        "name": "Discuss Azure fundamentals concepts",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
         "institution": {
           "name": "Microsoft ",
-          "description": "Introducción a los aspectos básicos de Azure\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "description": "Riguroso Programa de Formación Continuada en Azure y Microsoft\n\nDiscuss Azure fundamentals concepts",
           "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
           "image": {
             "alt": "20220524_descripcion_de_los_componentes_principales_de_la_arquitectura_de_azure_microsoft.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/d5f03526-1eae-481e-aee1-0d5d4bd51c53_20220524_descripcion.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/24285dba-0149-4e39-b2a9-f919db63474d_20220524_descripcion.png"
           }
         },
         "linkedCompetences": [
@@ -1415,16 +1415,16 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Discuss Azure fundamentals concepts",
+        "name": "Exploración de los servicios de red de Azure",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
         "institution": {
-          "name": "Microsoft ",
-          "description": "Riguroso Programa de Formación Continuada en Azure y Microsoft\n\nDiscuss Azure fundamentals concepts",
+          "name": "Microsoft",
+          "description": "Exploración de los servicios de red de Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
           "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
           "image": {
-            "alt": "20220524_descripcion_de_los_componentes_principales_de_la_arquitectura_de_azure_microsoft.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/24285dba-0149-4e39-b2a9-f919db63474d_20220524_descripcion.png"
+            "alt": "20220524_exploracion_de_los_servicios_de_red_de_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/29565ce8-ddc9-403e-8b33-e36b9978b5e4_20220524_exploracion.png"
           }
         },
         "linkedCompetences": [
@@ -1475,6 +1475,66 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Exploración de los servicios de Azure Storage",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Exploración de los servicios de Azure Storage.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220524_exploracion_de_los_servicios_de_azure_storage_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/e756128f-717f-4269-bd8d-172c69f0fb2a_20220524_exploracion.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introducción a los aspectos básicos de Azure",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft ",
+          "description": "Introducción a los aspectos básicos de Azure\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220524_descripcion_de_los_componentes_principales_de_la_arquitectura_de_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/d5f03526-1eae-481e-aee1-0d5d4bd51c53_20220524_descripcion.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Exploración de los servicios de Azure Compute",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
@@ -1505,28 +1565,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "REITS: El Rol del Inmobiliario Cotizado en las Carteras",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-03-01",
-        "institution": {
-          "name": "Janus Herderson - FundsPeople",
-          "description": "Desde el primer REIT que se constituyó en EE. UU. en la década de los 60 como medio para que los inversores particulares pudieran acceder a las ventajas de la titularidad de bienes inmuebles comerciales, esta clase de activo ha evolucionado mucho. En la actualidad, los bienes inmobiliarios cotizados se componen de cientos de empresas con activos físicos de muchos tipos de inmuebles en todo el mundo. Ofrece un gran universo de inversiones a partir del cual los gestores pueden seleccionar grupos de empresas acordes a los fines perseguidos. Como profesional de la gestión de activos es fundamental saber explicar y desgranar en qué consiste esta clase de activo y cómo se puede invertir a través de ella. A lo largo de los siete capítulos en los que se estructura el módulo, que ha contado con la colaboración de Janus Henderson Investors, damos todas las claves sobre la inversión en REITs.",
-          "URL": "https://fundspeople.com/es/iniciar-sesion/?sso=learning&redir=https%3A%2F%2Flearning.fundspeople.es%2Fcursos%2Freits-el-rol-del-inmobiliario-cotizado-en-las-carteras%2F",
-          "image": {
-            "alt": "20220309_reits_el-rol_del_inmobiliario_cotizado_en_las_carteras_janus_henderson_fundspeople.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/7d71b0b1-8bd1-48aa-8b63-ce4a7006491d_20220309_reits_el-ro.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
         "startDate": "2022-03-01",
         "finishDate": "2022-06-01",
@@ -1542,6 +1580,28 @@
         "linkedCompetences": [
           {
             "name": "Abstract",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "REITS: El Rol del Inmobiliario Cotizado en las Carteras",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Janus Herderson - FundsPeople",
+          "description": "Desde el primer REIT que se constituyó en EE. UU. en la década de los 60 como medio para que los inversores particulares pudieran acceder a las ventajas de la titularidad de bienes inmuebles comerciales, esta clase de activo ha evolucionado mucho. En la actualidad, los bienes inmobiliarios cotizados se componen de cientos de empresas con activos físicos de muchos tipos de inmuebles en todo el mundo. Ofrece un gran universo de inversiones a partir del cual los gestores pueden seleccionar grupos de empresas acordes a los fines perseguidos. Como profesional de la gestión de activos es fundamental saber explicar y desgranar en qué consiste esta clase de activo y cómo se puede invertir a través de ella. A lo largo de los siete capítulos en los que se estructura el módulo, que ha contado con la colaboración de Janus Henderson Investors, damos todas las claves sobre la inversión en REITs.",
+          "URL": "https://fundspeople.com/es/iniciar-sesion/?sso=learning&redir=https%3A%2F%2Flearning.fundspeople.es%2Fcursos%2Freits-el-rol-del-inmobiliario-cotizado-en-las-carteras%2F",
+          "image": {
+            "alt": "20220309_reits_el-rol_del_inmobiliario_cotizado_en_las_carteras_janus_henderson_fundspeople.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/7d71b0b1-8bd1-48aa-8b63-ce4a7006491d_20220309_reits_el-ro.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
             "type": "technology"
           }
         ]
@@ -1623,6 +1683,58 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Data and Health Indicators in Public Health Practice",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "Epidemiology is often described as the cornerstone science in public health. Epidemiology in public health practice uses study design and analyses to identify causes in an outbreak situation, guides interventions to improve population health, and evaluates programs and policies.\n\nIn this course, we'll define the role of the professional epidemiologist as it relates to public health services, functions, and competencies. With that foundation in mind, we'll introduce you to the problem solving methodology and demonstrate how it can be used in a wide variety of settings to identify problems, propose solutions, and evaluate interventions. This methodology depends on the use of reliable data, so we'll take a deep dive into the routine and public health data systems that lie at the heart of epidemiology and then conclude with how you can use that data to calculate measures of disease burden in populations.",
+          "URL": "https://es.coursera.org/learn/data-public-health?=",
+          "image": {
+            "alt": "20210910_data_health_indicators_public-healt_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/4ba0f466-d960-4411-ac73-6e49c86fbf53_20210910_data_health.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Statistics for Genomic Data Science",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "An introduction to the statistics behind the most popular genomic data science projects. This is the sixth course in the Genomic Big Data Science Specialization from Johns Hopkins University.",
+          "URL": "https://es.coursera.org/learn/statistical-genomics?",
+          "image": {
+            "alt": "20210914_statistic_genomic_data_science_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/fe006d48-2a84-4de6-b962-518af2093f40_20210914_statistic_g.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "COVID-19 Contact Tracing",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
@@ -1649,6 +1761,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Outbreaks and Epidemics",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "Professional epidemiologists are often called on to investigate outbreaks and epidemics. This course serves as an introduction to the essentials of investigation, identifying pathogens, figuring out what's going on, reporting, and responding. You'll learn how to ask precise epidemiologic questions and apply epidemiologic tools to uncover the answers. You'll also learn about basic epidemic dynamics and the terrible law that cause them to grow, as well as the reasons why they recede and eventually go away. The course concludes with deep dives into some real outbreaks from Ebola, in West Africa, to the opioid epidemic in the United States.",
+          "URL": "https://es.coursera.org/learn/outbreaks-epidemics?=",
+          "image": {
+            "alt": "20210912_Outbreaks_and_epidemics_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/1700f60b-debb-44f0-b66e-2f62c968bcaf_20210912_outbreaks_a.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Surveillence Systems The Building Blocks",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
@@ -1659,6 +1797,32 @@
           "image": {
             "alt": "20210908_surveillance_systems_the_building_blocks_johns_hopkins_university.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/307d1678-725d-430f-8c75-a65e10e26736_20210908_surveillanc.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Programa especializado: Epidemiology in Public Health Practice",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "description": "This specialization is intended for people working or aspiring to work in the field of public health at the local, regional, and national level. Over five courses taught by faculty from the preeminent school of public health, you'll learn to use the core epidemiologic toolset to measure the health of populations, assess interventions, collect and analyze data, and investigate outbreaks and epidemics.",
+          "URL": "https://es.coursera.org/specializations/professional-epidemiology",
+          "image": {
+            "alt": "20210912_Epidemeliogy_in_Public_Health_johns_hopkins_university.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/74161a6b-1ea9-4da1-bf8e-3fd025568b11_20210912_epidemeliog.png"
           }
         },
         "linkedCompetences": [
@@ -1727,84 +1891,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Data and Health Indicators in Public Health Practice",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "JOHNS HOPKINS UNIVERSITY",
-          "description": "Epidemiology is often described as the cornerstone science in public health. Epidemiology in public health practice uses study design and analyses to identify causes in an outbreak situation, guides interventions to improve population health, and evaluates programs and policies.\n\nIn this course, we'll define the role of the professional epidemiologist as it relates to public health services, functions, and competencies. With that foundation in mind, we'll introduce you to the problem solving methodology and demonstrate how it can be used in a wide variety of settings to identify problems, propose solutions, and evaluate interventions. This methodology depends on the use of reliable data, so we'll take a deep dive into the routine and public health data systems that lie at the heart of epidemiology and then conclude with how you can use that data to calculate measures of disease burden in populations.",
-          "URL": "https://es.coursera.org/learn/data-public-health?=",
-          "image": {
-            "alt": "20210910_data_health_indicators_public-healt_johns_hopkins_university.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/4ba0f466-d960-4411-ac73-6e49c86fbf53_20210910_data_health.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Outbreaks and Epidemics",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "JOHNS HOPKINS UNIVERSITY",
-          "description": "Professional epidemiologists are often called on to investigate outbreaks and epidemics. This course serves as an introduction to the essentials of investigation, identifying pathogens, figuring out what's going on, reporting, and responding. You'll learn how to ask precise epidemiologic questions and apply epidemiologic tools to uncover the answers. You'll also learn about basic epidemic dynamics and the terrible law that cause them to grow, as well as the reasons why they recede and eventually go away. The course concludes with deep dives into some real outbreaks from Ebola, in West Africa, to the opioid epidemic in the United States.",
-          "URL": "https://es.coursera.org/learn/outbreaks-epidemics?=",
-          "image": {
-            "alt": "20210912_Outbreaks_and_epidemics_johns_hopkins_university.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/1700f60b-debb-44f0-b66e-2f62c968bcaf_20210912_outbreaks_a.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Programa especializado: Epidemiology in Public Health Practice",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "JOHNS HOPKINS UNIVERSITY",
-          "description": "This specialization is intended for people working or aspiring to work in the field of public health at the local, regional, and national level. Over five courses taught by faculty from the preeminent school of public health, you'll learn to use the core epidemiologic toolset to measure the health of populations, assess interventions, collect and analyze data, and investigate outbreaks and epidemics.",
-          "URL": "https://es.coursera.org/specializations/professional-epidemiology",
-          "image": {
-            "alt": "20210912_Epidemeliogy_in_Public_Health_johns_hopkins_university.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/74161a6b-1ea9-4da1-bf8e-3fd025568b11_20210912_epidemeliog.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Introduction to Genomic Technologies",
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
@@ -1815,32 +1901,6 @@
           "image": {
             "alt": "20210914_introduction _genomic_technologies_johns_hopkins_university.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/9c0e3a8c-2d63-47e2-af5f-2ef7a45596c8_20210914_introductio.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Statistics for Genomic Data Science",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "JOHNS HOPKINS UNIVERSITY",
-          "description": "An introduction to the statistics behind the most popular genomic data science projects. This is the sixth course in the Genomic Big Data Science Specialization from Johns Hopkins University.",
-          "URL": "https://es.coursera.org/learn/statistical-genomics?",
-          "image": {
-            "alt": "20210914_statistic_genomic_data_science_johns_hopkins_university.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/fe006d48-2a84-4de6-b962-518af2093f40_20210914_statistic_g.png"
           }
         },
         "linkedCompetences": [
@@ -2121,50 +2181,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Arquitectura de software: Diseño de sistemas de software esencial",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Aprende a diseñar y planificar sistemas de software con este contenido formativo que te instruye, desde las bases teóricas del diseño de software (requerimientos, modularidad, rendimiento, escalabilidad, resiliencia y seguridad, entre otros), hasta cómo utilizar las herramientas de uso común en el campo; pasando por una gran variedad de consejos útiles a la hora de enfrentarse a la implementación de proyectos de software, el diseño de los sistemas y los problemas que puedan surgir en la implementación.",
-          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-diseno-de-sistemas-de-software-esencial",
-          "image": {
-            "alt": "20210909_arquitectura_de_software_diseño_de_sistemas_de_software_esencial_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/0433aee5-df68-4fc9-9f2d-dcf35b6f8223_20210909_arquitectur.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Arquitectura de software: Creación de sistemas sustentables esencial",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Crea sistemas de software más sustentables que puedan permanecer en el tiempo, expandirse y madurar con la organización que los desarrolla. Este contenido formativo te instruirá en las bases conceptuales de arquitectura y diseño de software, el rol del arquitecto de software, el ciclo de vida del software, cultura organizacional y, por supuesto, técnicas, patrones de diseño y modulabilidad, así como análisis de la deuda técnica y la herencia, todo enfocado a crear sistemas más sustentables en el tiempo.",
-          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-creacion-de-sistemas-sustentables-esencial",
-          "image": {
-            "alt": "20210813_arquitectura_de_software_creacion_de_sistemas_sustentables_esencial_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/b9a0f76d-8494-4151-b9ee-7bb12a544526_20210813_arquitectur.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Arquitectura de software: Patrones esencial",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
@@ -2175,50 +2191,6 @@
           "image": {
             "alt": "20210816_arquitectura_de_software_patrones_esencial_linkedin_learning.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/d909f546-498a-4d0f-a7f9-f9358f6f3662_20210816_arquitectur.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Fundamentos del teletrabajo",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "El teletrabajo está generando una revolución en la forma que trabajamos profesionales en el mundo entero, ya no es un beneficio exclusivo para dueños de empresas o artistas famosos. Hoy en día es accesible para la mayoría de trabajadores de los mas variados rubros.\n\nTe contaré aquí muchas de mis experiencias trabajando en diferentes partes del mundo para que reduzcas la curva de implementación y comiences a trabajar desde tu casa en el mínimo de tiempo y empieces a disfrutar la libertad del teletrabajo.",
-          "URL": "https://www.linkedin.com/learning/fundamentos-del-teletrabajo/presentacion-del-curso-fundamentos-del-teletrabajo?autoplay=true",
-          "image": {
-            "alt": "20210819_fundamentos_del_teletrabajo_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/39ccc7b9-000b-4f2c-a1db-043b3b7e4d51_20210819_fundamentos.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Desarrollo ágil de software",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "El enfoque ágil y su interés por la entrega y la mejora continua, la colaboración y la apertura al cambio puede ayudar a que las empresas y los equipos optimicen tanto su productividad como la calidad de sus productos. En este curso, vamos a aprender los fundamentos de ágil para desarrolladores de software, así como las razones que hacen único a este planteamiento de la gestión de proyectos dentro del mundo del software. Vamos a explorar los principios de la filosofía Agile, así como sus implementaciones, tales como Scrum y la programación extrema, y vamos a ver ejemplos prácticos que reforzarán los conceptos que te explicamos en el curso.",
-          "URL": "https://www.linkedin.com/learning/desarrollo-agil-de-software",
-          "image": {
-            "alt": "20210818_desarrollo_agil_de_software_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/58802bae-d658-45d9-9f39-e21ebcb981f5_20210818_desarrollo_.png"
           }
         },
         "linkedCompetences": [
@@ -2253,50 +2225,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Fundamentos de Kanban para desarrollo de Software PMI",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Kanban es un método de administración de proyectos, sencillo y elegante que ayuda a controlar y mejorar los procesos de desarrollo. En este curso, aprenderemos a gestionar un tablero de Kanban y a adaptarlo a cualquier entorno de trabajo. Conoceremos las principales herramientas y métricas, y veremos una serie de trucos y consejos para que adaptes Kanban a tu entorno actual de trabajo. Exploraremos juntos los elementos clave de Kanban y cómo ponerlo en práctica mediante ejemplos realistas que te ayudarán a sacar el máximo provecho de este enfoque único para gestionar la colaboración y la producción.",
-          "URL": "https://www.linkedin.com/learning/fundamentos-de-kanban-para-desarrollo-de-software",
-          "image": {
-            "alt": "20210819_fundamentos_de_kanban_para_desarrollo_de_software_pmi_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/42256893-bc9e-4ffc-ba0e-ae708eaaac43_20210819_fundamentos.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Fundamentos de Extreme Programming para desarrollo de software",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "La programación extrema o Extreme Programming es una metodología de desarrollo de software eficiente y adaptable orientada a entregar el producto a tiempo. Con ella, los proyectos imposibles, con demandas cambiantes y clientes difíciles pueden convertirse en afinadas máquinas de productividad. En este curso, veremos las prácticas, los valores y los principios de la programación extrema, y cómo ponerlos en práctica. Vamos a llevar la producción de tu proyecto hasta niveles extremos.",
-          "URL": "https://www.linkedin.com/learning/fundamentos-de-extreme-programming-para-desarrollo-de-software",
-          "image": {
-            "alt": "20210820_fundamentos_de_extremme_programming_para_desarrollo_de_software_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/512464ac-7408-4804-b2f8-0ee86f9f6860_20210820_fundamentos.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Aprende SCRUM",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
@@ -2307,50 +2235,6 @@
           "image": {
             "alt": "20210820_aprende_scrum_linkedin_learning.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/2f99dbd7-1d9c-4b5d-9e57-ed2ad5d65001_20210820_aprende_scr.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Aprende SCRUM PMI",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Descubre SCRUM, la metodología ágil de gestión de proyectos que marca una tendencia en la industria. Desde pequeños startups hasta grandes corporaciones, esta nueva forma de trabajar está revolucionando la forma en que trabajamos en equipo. En este curso aprenderás las bases de la filosofía SCRUM, sus roles, herramientas e implementación. Conocerás los fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo. Aprende qué es y cómo incorporar SCRUM a tus proyectos.",
-          "URL": "https://www.linkedin.com/learning/aprende-scrum/presentacion-del-curso-aprende-scrum?autoplay=true",
-          "image": {
-            "alt": "20210820_aprende_scrum_pmi_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/8ddf1150-6033-4a17-ae88-5a369a4bd276_20210820_aprende_scr.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Scrum: Roles ",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "SCRUM es una metodología ágil de gestión de proyectos que se ha convertido prácticamente en el estándar de trabajo de incontables organizaciones y empresas. Es fácil de comprender, y en general no toma mucho tiempo comenzar a aplicarlo en un proyecto. Sin embargo, exige que cada integrante conozca a la perfección su rol y el de los demás, para que el proyecto funcione sin fricciones. En este curso, vamos a descubrir las tareas que debe cumplir cada integrante del proyecto y analizaremos cada rol a lo largo del ciclo de vida de un proyecto SCRUM.",
-          "URL": "https://www.linkedin.com/learning/scrum-roles",
-          "image": {
-            "alt": "20210820_scrum_roles_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/48c8799d-bd32-4709-a501-0eb077f9f175_20210820_scrum_roles.png"
           }
         },
         "linkedCompetences": [
@@ -2385,50 +2269,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "SCRUM: Anti patrones ",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Identificar los problemas en la metodología ágil SCRUM y descubre herramientas para detectar anti patrones y técnicas para adaptarse y comenzar a corregir el rumbo antes de que se vuelvan un problema en tu proyecto. Descubre cómo solucionar estos problemas por usar esta metodología cuando no es suficiente para gestionar tu proyecto.",
-          "URL": "https://www.linkedin.com/learning/scrum-anti-patrones",
-          "image": {
-            "alt": "20210820_scrum_anti_patrones_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/502471d5-ac3c-4745-ac73-8d94eeb82c5c_20210820_scrum_anti_.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Scrum avanzado",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Linkedin Learning",
-          "description": "Cuando ya dominas los fundamentos de Scrum, puedes empezar a profundizar más en este marco de trabajo tan popular. Aprende en este curso técnicas avanzadas de Scrum que harán que tú y tu equipo sean incluso más eficaces. Kelley O'Connell empieza el curso repasando algunos fundamentos de Scrum y explicando cómo optimizar la eficacia del propietario del producto y del Scrum Master. Luego, enseña el rol del propietario del producto en profundidad y cómo puedes realzar sus habilidades para que el producto sea insuperable. A continuación, explora el papel del Scrum Master y explica cómo puede perfeccionar sus técnicas para interceder por el equipo, y cómo eliminar obstáculos que se pueden interponer en el camino hacia el éxito.",
-          "URL": "https://www.linkedin.com/learning/scrum-avanzado",
-          "image": {
-            "alt": "20210820_scrum_avanzado_linkedin_learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/05013e14-6e2e-4cb2-a92d-e768b2480f26_20210820_scrum_avanz.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Scrum avanzado PMI",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
@@ -2439,6 +2279,116 @@
           "image": {
             "alt": "20210820_scrum_avanzado_linkedin_learning.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/0213fa11-1e47-4c5a-9aca-af5679970874_20210820_scrum_avanz.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Arquitectura de software: Diseño de sistemas de software esencial",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Aprende a diseñar y planificar sistemas de software con este contenido formativo que te instruye, desde las bases teóricas del diseño de software (requerimientos, modularidad, rendimiento, escalabilidad, resiliencia y seguridad, entre otros), hasta cómo utilizar las herramientas de uso común en el campo; pasando por una gran variedad de consejos útiles a la hora de enfrentarse a la implementación de proyectos de software, el diseño de los sistemas y los problemas que puedan surgir en la implementación.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-diseno-de-sistemas-de-software-esencial",
+          "image": {
+            "alt": "20210909_arquitectura_de_software_diseño_de_sistemas_de_software_esencial_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/0433aee5-df68-4fc9-9f2d-dcf35b6f8223_20210909_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Desarrollo ágil de software",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "El enfoque ágil y su interés por la entrega y la mejora continua, la colaboración y la apertura al cambio puede ayudar a que las empresas y los equipos optimicen tanto su productividad como la calidad de sus productos. En este curso, vamos a aprender los fundamentos de ágil para desarrolladores de software, así como las razones que hacen único a este planteamiento de la gestión de proyectos dentro del mundo del software. Vamos a explorar los principios de la filosofía Agile, así como sus implementaciones, tales como Scrum y la programación extrema, y vamos a ver ejemplos prácticos que reforzarán los conceptos que te explicamos en el curso.",
+          "URL": "https://www.linkedin.com/learning/desarrollo-agil-de-software",
+          "image": {
+            "alt": "20210818_desarrollo_agil_de_software_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/58802bae-d658-45d9-9f39-e21ebcb981f5_20210818_desarrollo_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Fundamentos de Kanban para desarrollo de Software PMI",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Kanban es un método de administración de proyectos, sencillo y elegante que ayuda a controlar y mejorar los procesos de desarrollo. En este curso, aprenderemos a gestionar un tablero de Kanban y a adaptarlo a cualquier entorno de trabajo. Conoceremos las principales herramientas y métricas, y veremos una serie de trucos y consejos para que adaptes Kanban a tu entorno actual de trabajo. Exploraremos juntos los elementos clave de Kanban y cómo ponerlo en práctica mediante ejemplos realistas que te ayudarán a sacar el máximo provecho de este enfoque único para gestionar la colaboración y la producción.",
+          "URL": "https://www.linkedin.com/learning/fundamentos-de-kanban-para-desarrollo-de-software",
+          "image": {
+            "alt": "20210819_fundamentos_de_kanban_para_desarrollo_de_software_pmi_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/42256893-bc9e-4ffc-ba0e-ae708eaaac43_20210819_fundamentos.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Aprende SCRUM PMI",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Descubre SCRUM, la metodología ágil de gestión de proyectos que marca una tendencia en la industria. Desde pequeños startups hasta grandes corporaciones, esta nueva forma de trabajar está revolucionando la forma en que trabajamos en equipo. En este curso aprenderás las bases de la filosofía SCRUM, sus roles, herramientas e implementación. Conocerás los fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo. Aprende qué es y cómo incorporar SCRUM a tus proyectos.",
+          "URL": "https://www.linkedin.com/learning/aprende-scrum/presentacion-del-curso-aprende-scrum?autoplay=true",
+          "image": {
+            "alt": "20210820_aprende_scrum_pmi_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/8ddf1150-6033-4a17-ae88-5a369a4bd276_20210820_aprende_scr.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "SCRUM: Anti patrones ",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Identificar los problemas en la metodología ágil SCRUM y descubre herramientas para detectar anti patrones y técnicas para adaptarse y comenzar a corregir el rumbo antes de que se vuelvan un problema en tu proyecto. Descubre cómo solucionar estos problemas por usar esta metodología cuando no es suficiente para gestionar tu proyecto.",
+          "URL": "https://www.linkedin.com/learning/scrum-anti-patrones",
+          "image": {
+            "alt": "20210820_scrum_anti_patrones_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/502471d5-ac3c-4745-ac73-8d94eeb82c5c_20210820_scrum_anti_.png"
           }
         },
         "linkedCompetences": [
@@ -2468,6 +2418,116 @@
             "name": "Abstract",
             "type": "technology"
           },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Arquitectura de software: Creación de sistemas sustentables esencial",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Crea sistemas de software más sustentables que puedan permanecer en el tiempo, expandirse y madurar con la organización que los desarrolla. Este contenido formativo te instruirá en las bases conceptuales de arquitectura y diseño de software, el rol del arquitecto de software, el ciclo de vida del software, cultura organizacional y, por supuesto, técnicas, patrones de diseño y modulabilidad, así como análisis de la deuda técnica y la herencia, todo enfocado a crear sistemas más sustentables en el tiempo.",
+          "URL": "https://www.linkedin.com/learning/arquitectura-de-software-creacion-de-sistemas-sustentables-esencial",
+          "image": {
+            "alt": "20210813_arquitectura_de_software_creacion_de_sistemas_sustentables_esencial_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/b9a0f76d-8494-4151-b9ee-7bb12a544526_20210813_arquitectur.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Fundamentos del teletrabajo",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "El teletrabajo está generando una revolución en la forma que trabajamos profesionales en el mundo entero, ya no es un beneficio exclusivo para dueños de empresas o artistas famosos. Hoy en día es accesible para la mayoría de trabajadores de los mas variados rubros.\n\nTe contaré aquí muchas de mis experiencias trabajando en diferentes partes del mundo para que reduzcas la curva de implementación y comiences a trabajar desde tu casa en el mínimo de tiempo y empieces a disfrutar la libertad del teletrabajo.",
+          "URL": "https://www.linkedin.com/learning/fundamentos-del-teletrabajo/presentacion-del-curso-fundamentos-del-teletrabajo?autoplay=true",
+          "image": {
+            "alt": "20210819_fundamentos_del_teletrabajo_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/39ccc7b9-000b-4f2c-a1db-043b3b7e4d51_20210819_fundamentos.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Fundamentos de Extreme Programming para desarrollo de software",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "La programación extrema o Extreme Programming es una metodología de desarrollo de software eficiente y adaptable orientada a entregar el producto a tiempo. Con ella, los proyectos imposibles, con demandas cambiantes y clientes difíciles pueden convertirse en afinadas máquinas de productividad. En este curso, veremos las prácticas, los valores y los principios de la programación extrema, y cómo ponerlos en práctica. Vamos a llevar la producción de tu proyecto hasta niveles extremos.",
+          "URL": "https://www.linkedin.com/learning/fundamentos-de-extreme-programming-para-desarrollo-de-software",
+          "image": {
+            "alt": "20210820_fundamentos_de_extremme_programming_para_desarrollo_de_software_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/512464ac-7408-4804-b2f8-0ee86f9f6860_20210820_fundamentos.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Scrum: Roles ",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "SCRUM es una metodología ágil de gestión de proyectos que se ha convertido prácticamente en el estándar de trabajo de incontables organizaciones y empresas. Es fácil de comprender, y en general no toma mucho tiempo comenzar a aplicarlo en un proyecto. Sin embargo, exige que cada integrante conozca a la perfección su rol y el de los demás, para que el proyecto funcione sin fricciones. En este curso, vamos a descubrir las tareas que debe cumplir cada integrante del proyecto y analizaremos cada rol a lo largo del ciclo de vida de un proyecto SCRUM.",
+          "URL": "https://www.linkedin.com/learning/scrum-roles",
+          "image": {
+            "alt": "20210820_scrum_roles_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/48c8799d-bd32-4709-a501-0eb077f9f175_20210820_scrum_roles.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Scrum avanzado",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Cuando ya dominas los fundamentos de Scrum, puedes empezar a profundizar más en este marco de trabajo tan popular. Aprende en este curso técnicas avanzadas de Scrum que harán que tú y tu equipo sean incluso más eficaces. Kelley O'Connell empieza el curso repasando algunos fundamentos de Scrum y explicando cómo optimizar la eficacia del propietario del producto y del Scrum Master. Luego, enseña el rol del propietario del producto en profundidad y cómo puedes realzar sus habilidades para que el producto sea insuperable. A continuación, explora el papel del Scrum Master y explica cómo puede perfeccionar sus técnicas para interceder por el equipo, y cómo eliminar obstáculos que se pueden interponer en el camino hacia el éxito.",
+          "URL": "https://www.linkedin.com/learning/scrum-avanzado",
+          "image": {
+            "alt": "20210820_scrum_avanzado_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/05013e14-6e2e-4cb2-a92d-e768b2480f26_20210820_scrum_avanz.png"
+          }
+        },
+        "linkedCompetences": [
           {
             "name": "HTML",
             "type": "technology"
@@ -3085,44 +3145,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "AWS Security Fundamentals (Second Edition) (Spanish)",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-04-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Security Fundamentals (Second Edition) (Spanish)",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210412_aws_security_fundamentals_second_edition_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/41c197de-149d-4e85-84ff-1075b339d033_20210412_aws_securit.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Prevención y control de infecciones (PCI) causadas por el virus de la COVID-19",
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
@@ -3153,6 +3175,90 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Differences Between Security Gropus and NACLs (Spanish)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "Differences Between Security Gropus and NACLs (Spanish)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210427_differences_between_security_gropus_and_nacls_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/1d2f0dc7-5247-4387-8146-70958b53f9a5_20210427_differences.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Cloud Practitioner Essentials Day",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Cloud Practitioner Essentials Day",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210430_aws_cloud_practitioner_essentials_day.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/00fd1a2e-cb2d-4760-8675-19b21e6d7c53_20210430_aws_cloud_p.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "AWS Partner: Foundations (Business) (Classroom)",
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
@@ -3163,6 +3269,86 @@
           "image": {
             "alt": "20210426_aws_partner_foundations_business_classroom.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/5c21e00f-2219-477c-8c9a-ac183fc2bb43_20210426_aws_partner.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Protecting Your Instance with Security Groups (Spanish)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "Protecting Your Instance with Security Groups (Spanish)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210427_protecting_your_instance_with_security_groups_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/8e291757-6746-47d2-9555-df2ec1b09ba2_20210427_protecting_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Security Fundamentals (Second Edition) (Spanish)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Security Fundamentals (Second Edition) (Spanish)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210412_aws_security_fundamentals_second_edition_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/41c197de-149d-4e85-84ff-1075b339d033_20210412_aws_securit.png"
           }
         },
         "linkedCompetences": [
@@ -3229,90 +3415,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Differences Between Security Gropus and NACLs (Spanish)",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-04-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "Differences Between Security Gropus and NACLs (Spanish)",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210427_differences_between_security_gropus_and_nacls_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/1d2f0dc7-5247-4387-8146-70958b53f9a5_20210427_differences.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Protecting Your Instance with Security Groups (Spanish)",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-04-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "Protecting Your Instance with Security Groups (Spanish)",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210427_protecting_your_instance_with_security_groups_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/8e291757-6746-47d2-9555-df2ec1b09ba2_20210427_protecting_.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Understanding Amazon EBS Volume Encryption (Spanish)",
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
@@ -3332,48 +3434,6 @@
           },
           {
             "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS Cloud Practitioner Essentials Day",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-04-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Cloud Practitioner Essentials Day",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210430_aws_cloud_practitioner_essentials_day.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/00fd1a2e-cb2d-4760-8675-19b21e6d7c53_20210430_aws_cloud_p.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
             "type": "technology"
           },
           {
@@ -3755,120 +3815,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Classroom)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Classroom)",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210319_aws_solutions_training_for_partners_aws_for_microsoft_workloads_business_classroom.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/b5b22aa3-7b13-416f-9c5d-255afcd19280_20210319_aws_solutio.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS Solutions Training for Partners: Well- Architected Best Practices- Technical (Spanish)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Solutions Training for Partners: Well- Architected Best Practices- Technical (Spanish)",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210322_aws_solutions_training_for_partners_well_architected_best_practices_technical_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/66619d88-9927-471e-a690-4aa61db967b0_20210322_aws_solutio.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom)",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210324_aws_solutions_training_for_partners_migrating_to_aws_business_clasroom.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/90c0ca0f-67ad-4ed2-a5b3-e841356d888d_20210324_aws_solutio.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "AWS Solutions Training for Partners: Machine Learning on AWS Business (Classroom)",
         "startDate": "2021-03-01",
         "finishDate": "2021-03-01",
@@ -3879,82 +3825,6 @@
           "image": {
             "alt": "20210329_aws_solutions_training_for-partners_machine_learning_on_aws_business_classroom.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/24b2a078-cc57-4bbe-8fa6-97b2d815f13d_20210329_aws_solutio.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "ML Building Blocks: Services and Terminology (Spanish)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "ML Building Blocks: Services and Terminology (Spanish)",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210329_ml_building_blocks_services_and_terminology_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/ff0fc69f-379b-4684-ac20-3c5d9bd79f69_20210329_ml_building.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Machine Learning for Leaders (Spanish)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "Machine Learning for Leaders (Spanish)",
-          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
-          "image": {
-            "alt": "20210330_machine_learning_for_leaders_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/47bfb58b-ea29-4925-982b-a41982d29b84_20210330_machine_lea.png"
           }
         },
         "linkedCompetences": [
@@ -4021,6 +3891,82 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Classroom)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: AWS for Microsoft Workloads - Business (Classroom)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210319_aws_solutions_training_for_partners_aws_for_microsoft_workloads_business_classroom.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/b5b22aa3-7b13-416f-9c5d-255afcd19280_20210319_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "ML Building Blocks: Services and Terminology (Spanish)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "ML Building Blocks: Services and Terminology (Spanish)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210329_ml_building_blocks_services_and_terminology_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/ff0fc69f-379b-4684-ac20-3c5d9bd79f69_20210329_ml_building.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital) (Spanish)",
         "startDate": "2021-03-01",
         "finishDate": "2021-03-01",
@@ -4031,6 +3977,120 @@
           "image": {
             "alt": "20210331_aws_solutions_training_for_partners_machine_learning_on_aws_business_digital_spanish.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/ec43a5ca-069b-474f-8e0e-88d014f48d72_20210331_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: Well- Architected Best Practices- Technical (Spanish)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: Well- Architected Best Practices- Technical (Spanish)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210322_aws_solutions_training_for_partners_well_architected_best_practices_technical_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/66619d88-9927-471e-a690-4aa61db967b0_20210322_aws_solutio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Machine Learning for Leaders (Spanish)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "Machine Learning for Leaders (Spanish)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210330_machine_learning_for_leaders_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/47bfb58b-ea29-4925-982b-a41982d29b84_20210330_machine_lea.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom)",
+          "URL": "https://login.us-east-1.auth.skillbuilder.aws/login?redirect_uri=https://www.aws.training/LogOnV2/Response&client_id=3ngs935m8cnns64p4m2sm3hsta&response_type=code&scope=openid&state=%2FAccount%2FTranscript%2FArchived",
+          "image": {
+            "alt": "20210324_aws_solutions_training_for_partners_migrating_to_aws_business_clasroom.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/90c0ca0f-67ad-4ed2-a5b3-e841356d888d_20210324_aws_solutio.png"
           }
         },
         "linkedCompetences": [
@@ -4401,90 +4461,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Curso Introducción a Amazon Web Services (AWS) desde cero",
-        "startDate": "2021-02-01",
-        "finishDate": "2021-02-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "Bienvenido al curso de introducción a Amazon Web Services (AWS) desde cero. Aprenda Cloud Computing con Amazon AWS de la mano de un experto certificado en Amazon AWS: José María González.  Con este curso aumentara sus habilidades y conocimientos para construir su infraestructura en la nube de AWS.\n\nEn este curso podrá gestionar múltiples servicios de AWS como S3, EC2, ELB, RDS, AutoScaling, Lamdba, Route 53, CloudWatch y un largo etcétera para el despliegue de infraestructuras y aplicaciones escalables en la nube de Amazon.\n\nRealizará prácticas en AWS de forma gratuita con la capa gratuita Amazon ( Free Tier ).\n\nLa nube de Amazon Web Services (AWS) es la más popular para el desarrollo de aplicaciones, soluciones de cloud computing y almacenaje de datos en la nube.",
-          "URL": "https://www.udemy.com/course/curso-introduccion-amazon-web-services-aws-desde-cero/",
-          "image": {
-            "alt": "20210222_curso_introduccion_amazon_web_services_desde_cero_udemy.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/34f6837f-25c4-44d4-9aa0-97ea65f603ac_20210222_curso_intro.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Certificado de Asistencia AWS INNOVATE ONLINE CONFERENCE",
-        "startDate": "2021-02-01",
-        "finishDate": "2021-02-01",
-        "institution": {
-          "name": "AWS de Amazon",
-          "description": "Certificado de Asistencia AWS INNOVATE ONLINE CONFERENCE",
-          "URL": "https://aws.amazon.com/es/events/innovate-online-conference/americas/",
-          "image": {
-            "alt": "20210224_asistencia_aws_innovate_online.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/5206eef7-b0ae-4f24-934f-140053d26ff1_20210224_asistencia_.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "AWS Technical Professional (Spanish)",
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
@@ -4495,82 +4471,6 @@
           "image": {
             "alt": "20210225_aws_technical_professional_spanish.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/1c060d18-66ed-4bf9-8611-b0a9aedd702a_20210225_aws_technic.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS Cloud Practioner Essentials (Second Edition) (Spanish)",
-        "startDate": "2021-02-01",
-        "finishDate": "2021-02-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "AWS Cloud Practioner Essentials (Second Edition) (Spanish)",
-          "URL": "https://www.aws.training/Account/Transcript/Archived",
-          "image": {
-            "alt": "20210227_aws_cloud_practitioner_essential_second_edition_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/5895cee9-d52b-4478-a2e3-6cf1bbedaaac_20210227_aws_cloud_p.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-Admin",
-            "type": "technology"
-          },
-          {
-            "name": "AWS-User",
-            "type": "technology"
-          },
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Demystifying AI/ML/DL (Spanish)",
-        "startDate": "2021-02-01",
-        "finishDate": "2021-02-01",
-        "institution": {
-          "name": "AWS training and certification",
-          "description": "Demystifying AI/ML/DL (Spanish)",
-          "URL": "https://www.aws.training/Account/Transcript/Archived",
-          "image": {
-            "alt": "20210228_demystifying_ai_ml_dl_spanish.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/38c4ff67-ee51-4202-936b-c6d2ba4a8c03_20210228_demystifyin.png"
           }
         },
         "linkedCompetences": [
@@ -4625,6 +4525,44 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "AWS Cloud Practioner Essentials (Second Edition) (Spanish)",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "AWS Cloud Practioner Essentials (Second Edition) (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210227_aws_cloud_practitioner_essential_second_edition_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/5895cee9-d52b-4478-a2e3-6cf1bbedaaac_20210227_aws_cloud_p.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Detección de señales & evaluación de causalidad",
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
@@ -4666,6 +4604,128 @@
         "linkedCompetences": [
           {
             "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso Introducción a Amazon Web Services (AWS) desde cero",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Bienvenido al curso de introducción a Amazon Web Services (AWS) desde cero. Aprenda Cloud Computing con Amazon AWS de la mano de un experto certificado en Amazon AWS: José María González.  Con este curso aumentara sus habilidades y conocimientos para construir su infraestructura en la nube de AWS.\n\nEn este curso podrá gestionar múltiples servicios de AWS como S3, EC2, ELB, RDS, AutoScaling, Lamdba, Route 53, CloudWatch y un largo etcétera para el despliegue de infraestructuras y aplicaciones escalables en la nube de Amazon.\n\nRealizará prácticas en AWS de forma gratuita con la capa gratuita Amazon ( Free Tier ).\n\nLa nube de Amazon Web Services (AWS) es la más popular para el desarrollo de aplicaciones, soluciones de cloud computing y almacenaje de datos en la nube.",
+          "URL": "https://www.udemy.com/course/curso-introduccion-amazon-web-services-aws-desde-cero/",
+          "image": {
+            "alt": "20210222_curso_introduccion_amazon_web_services_desde_cero_udemy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/34f6837f-25c4-44d4-9aa0-97ea65f603ac_20210222_curso_intro.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Demystifying AI/ML/DL (Spanish)",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "AWS training and certification",
+          "description": "Demystifying AI/ML/DL (Spanish)",
+          "URL": "https://www.aws.training/Account/Transcript/Archived",
+          "image": {
+            "alt": "20210228_demystifying_ai_ml_dl_spanish.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/38c4ff67-ee51-4202-936b-c6d2ba4a8c03_20210228_demystifyin.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificado de Asistencia AWS INNOVATE ONLINE CONFERENCE",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "AWS de Amazon",
+          "description": "Certificado de Asistencia AWS INNOVATE ONLINE CONFERENCE",
+          "URL": "https://aws.amazon.com/es/events/innovate-online-conference/americas/",
+          "image": {
+            "alt": "20210224_asistencia_aws_innovate_online.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/5206eef7-b0ae-4f24-934f-140053d26ff1_20210224_asistencia_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
             "type": "technology"
           },
           {
@@ -5149,28 +5209,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Directrices de planificación operativa para la COVID-19 y  plataforma de los asociados para apoyar la preparación y la  respuesta de los países ante la COVID-19",
-        "startDate": "2020-11-01",
-        "finishDate": "2020-11-01",
-        "institution": {
-          "name": "World Health Organization",
-          "description": "Directrices de planificación operativa para la COVID-19 y \nplataforma de los asociados para apoyar la preparación y la \nrespuesta de los países ante la COVID-1",
-          "URL": "https://openwho.org/dashboard/documents",
-          "image": {
-            "alt": "UNCT-COVID19-preparacion-y-respuesta-ES_open_badge_tx.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/61b4eac8-1457-48cd-adc5-f3f477db489c_unct-covid19-prepara.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Nuevos virus respiratorios, incluido el COVID-19: métodos de detección, prevención, respuesta y control",
         "startDate": "2020-11-01",
         "finishDate": "2020-11-01",
@@ -5187,6 +5225,28 @@
             "name": "Abstract",
             "type": "technology"
           },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Directrices de planificación operativa para la COVID-19 y  plataforma de los asociados para apoyar la preparación y la  respuesta de los países ante la COVID-19",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "World Health Organization",
+          "description": "Directrices de planificación operativa para la COVID-19 y \nplataforma de los asociados para apoyar la preparación y la \nrespuesta de los países ante la COVID-1",
+          "URL": "https://openwho.org/dashboard/documents",
+          "image": {
+            "alt": "UNCT-COVID19-preparacion-y-respuesta-ES_open_badge_tx.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/21/61b4eac8-1457-48cd-adc5-f3f477db489c_unct-covid19-prepara.png"
+          }
+        },
+        "linkedCompetences": [
           {
             "name": "HTML",
             "type": "technology"
