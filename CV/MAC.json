@@ -2045,6 +2045,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Fundamentos del teletrabajo",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "El teletrabajo está generando una revolución en la forma que trabajamos profesionales en el mundo entero, ya no es un beneficio exclusivo para dueños de empresas o artistas famosos. Hoy en día es accesible para la mayoría de trabajadores de los mas variados rubros.\n\nTe contaré aquí muchas de mis experiencias trabajando en diferentes partes del mundo para que reduzcas la curva de implementación y comiences a trabajar desde tu casa en el mínimo de tiempo y empieces a disfrutar la libertad del teletrabajo.",
+          "URL": "https://www.linkedin.com/learning/fundamentos-del-teletrabajo/presentacion-del-curso-fundamentos-del-teletrabajo?autoplay=true",
+          "image": {
+            "alt": "20210819_fundamentos_del_teletrabajo_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/39ccc7b9-000b-4f2c-a1db-043b3b7e4d51_20210819_fundamentos.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Desarrollo ágil de software",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
