@@ -1567,6 +1567,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Compilación de una aplicación de Java con bases de datos NoSQL de Cosmos DB con escalado en la nube",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Compilación de una aplicación de Java con bases de datos NoSQL de Cosmos DB con escalado en la nube.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.\n",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220609_compilacion_de_una_aplicacion_de_java_con_bases_de_datos_nosql_de_cosmos_db_con_escalado_en_la_nube_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/5eacbe5a-9587-4565-a696-3386ccb8e46d_20220609_compilacion.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
