@@ -2285,6 +2285,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Escalado de una aplicación web de App Service para satisfacer la demanda de forma eficaz con el escalado vertical y horizontal de App Service",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Escalado de una aplicación web de App Service para satisfacer la demanda de forma eficaz con el escalado vertical y horizontal de App Service.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220531_escalado_de_una_aplicacion_web_de-app_service_para_satisfacer_la_demanda_de_forma_eficaz_con_el_escalado_vertical_y_horizontal_de_app_service_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/994c6399-78f1-43cd-925a-3184d72951c5_20220531_escalado_de.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
         "startDate": "2022-03-01",
         "finishDate": "2022-06-01",
