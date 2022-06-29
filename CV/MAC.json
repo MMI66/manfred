@@ -1687,6 +1687,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Ampliación de las capacidades de las aplicaciones de Java en Azure",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Ampliación de las capacidades de las aplicaciones de Java en Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.\n",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220610_ampliacion_de_las_capacidades_de_las_aplicaciones_de_java_en_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/113c6f4e-b9b7-4777-a97d-1886e17a2248_20220610_ampliacion_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
