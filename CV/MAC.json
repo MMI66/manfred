@@ -1625,6 +1625,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Ejecución de tareas paralelas en Azure Batch con la CLI de Azure",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Ejecución de tareas paralelas en Azure Batch con la CLI de Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220527_ejecucion_de_tareas_paralelas_en_azure_batch_con_la_cli_de_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/c96298b6-2782-40a8-b78d-fed40f2104b8_20220527_ejecucion_d.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Descripción de los componentes principales de la arquitectura de Azure",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
