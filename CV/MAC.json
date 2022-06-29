@@ -930,6 +930,70 @@
             "finishDate": "2022-06-01",
             "competences": [
               {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS-Admin",
+                "type": "technology"
+              },
+              {
+                "name": "AWS-User",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Azure Functions",
+                "type": "technology"
+              },
+              {
+                "name": "Batch",
+                "type": "technology"
+              },
+              {
+                "name": "Canva",
+                "type": "technology"
+              },
+              {
+                "name": "Cloudwatch",
+                "type": "technology"
+              },
+              {
+                "name": "CosmosDB",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
                 "name": "WordPress",
                 "type": "technology"
               }
