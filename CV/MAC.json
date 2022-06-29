@@ -2155,6 +2155,50 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Aprende SCRUM",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Descubre SCRUM, la metodología ágil de gestión de proyectos que marca una tendencia en la industria. Desde pequeños startups hasta grandes corporaciones, esta nueva forma de trabajar está revolucionando la forma en que trabajamos en equipo. En este curso aprenderás las bases de la filosofía SCRUM, sus roles, herramientas e implementación. Conocerás los fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo. Aprende qué es y cómo incorporar SCRUM a tus proyectos.",
+          "URL": "https://www.linkedin.com/learning/aprende-scrum/presentacion-del-curso-aprende-scrum?autoplay=true",
+          "image": {
+            "alt": "20210820_aprende_scrum_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/2f99dbd7-1d9c-4b5d-9e57-ed2ad5d65001_20210820_aprende_scr.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Aprende SCRUM PMI",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Descubre SCRUM, la metodología ágil de gestión de proyectos que marca una tendencia en la industria. Desde pequeños startups hasta grandes corporaciones, esta nueva forma de trabajar está revolucionando la forma en que trabajamos en equipo. En este curso aprenderás las bases de la filosofía SCRUM, sus roles, herramientas e implementación. Conocerás los fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo. Aprende qué es y cómo incorporar SCRUM a tus proyectos.",
+          "URL": "https://www.linkedin.com/learning/aprende-scrum/presentacion-del-curso-aprende-scrum?autoplay=true",
+          "image": {
+            "alt": "20210820_aprende_scrum_pmi_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/8ddf1150-6033-4a17-ae88-5a369a4bd276_20210820_aprende_scr.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
