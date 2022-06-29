@@ -1535,6 +1535,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Exploración de los servicios de análisis y bases de datos de Azure",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Exploración de los servicios de análisis y bases de datos de Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220525_exploracion_de_los_servicios_de_analisis_y_bases_de_datos_de_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/03aa2f86-0293-4dba-a38f-334b1e2719a9_20220525_exploracion.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Introducción a los aspectos básicos de Azure",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
