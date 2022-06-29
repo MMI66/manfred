@@ -1865,6 +1865,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Compilación de una aplicación escalable con conjuntos de escalado de máquinas virtuales",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Compilación de una aplicación escalable con conjuntos de escalado de máquinas virtuales.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220527_compilacion_de_una_aplicacion_escalable_con_conjuntos_de_escalado_de_maquinas_virtuales_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/07a50d5d-d573-4901-81dd-97fb7b1f2349_20220527_compilacion.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
         "startDate": "2022-03-01",
         "finishDate": "2022-06-01",
