@@ -1507,6 +1507,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Implementación de microservicios de Spring en Azure",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Implementación de microservicios de Spring en Azure.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220607_implementacion_de_microservicios_de_spring_en_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/d72d8b11-655b-490c-9c6b-4adfc72c33f7_20220607_implementac.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
