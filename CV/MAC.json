@@ -1475,6 +1475,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Introducción a Azure Virtual Machines",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Introducción a Azure Virtual Machines.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.\n",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220525_introduccion_a_azure_virtual_machines_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/3b66826b-ed5c-4f54-acee-dd0f22ede1f4_20220525_introduccio.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Descripción de los componentes principales de la arquitectura de Azure",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
