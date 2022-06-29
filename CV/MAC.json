@@ -2199,6 +2199,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Scrum: Roles ",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "SCRUM es una metodología ágil de gestión de proyectos que se ha convertido prácticamente en el estándar de trabajo de incontables organizaciones y empresas. Es fácil de comprender, y en general no toma mucho tiempo comenzar a aplicarlo en un proyecto. Sin embargo, exige que cada integrante conozca a la perfección su rol y el de los demás, para que el proyecto funcione sin fricciones. En este curso, vamos a descubrir las tareas que debe cumplir cada integrante del proyecto y analizaremos cada rol a lo largo del ciclo de vida de un proyecto SCRUM.",
+          "URL": "https://www.linkedin.com/learning/scrum-roles",
+          "image": {
+            "alt": "20210820_scrum_roles_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/48c8799d-bd32-4709-a501-0eb077f9f175_20210820_scrum_roles.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
