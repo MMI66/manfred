@@ -2045,6 +2045,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Elección de un almacenamiento en disco adecuado para la carga de trabajo de la máquina virtual",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Elección de un almacenamiento en disco adecuado para la carga de trabajo de la máquina virtual.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.\n",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220528_eleccion_del_almacenamiento_en_disco_adecuado_para_la_carga_de_trabajo_de_la_maquina_virtual_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/03e433d9-d399-490a-a78d-90da8cfbc243_20220528_eleccion_de.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
         "startDate": "2022-03-01",
         "finishDate": "2022-06-01",
