@@ -1385,6 +1385,58 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Introducción a los aspectos básicos de Azure",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft Learning",
+          "description": "Introducción a los aspectos básicos de Azure",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220524_aspectos_basicos_de_azure_parte_1_descripcion_de_los_conceptos_basicos_de_azure_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/1deb8b04-4c4f-43f7-8f1f-7ade549bcdda_20220524_aspectos_ba.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "REITS: El Rol del Inmobiliario Cotizado en las Carteras",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Janus Herderson - FundsPeople",
+          "description": "Desde el primer REIT que se constituyó en EE. UU. en la década de los 60 como medio para que los inversores particulares pudieran acceder a las ventajas de la titularidad de bienes inmuebles comerciales, esta clase de activo ha evolucionado mucho. En la actualidad, los bienes inmobiliarios cotizados se componen de cientos de empresas con activos físicos de muchos tipos de inmuebles en todo el mundo. Ofrece un gran universo de inversiones a partir del cual los gestores pueden seleccionar grupos de empresas acordes a los fines perseguidos. Como profesional de la gestión de activos es fundamental saber explicar y desgranar en qué consiste esta clase de activo y cómo se puede invertir a través de ella. A lo largo de los siete capítulos en los que se estructura el módulo, que ha contado con la colaboración de Janus Henderson Investors, damos todas las claves sobre la inversión en REITs.",
+          "URL": "https://fundspeople.com/es/iniciar-sesion/?sso=learning&redir=https%3A%2F%2Flearning.fundspeople.es%2Fcursos%2Freits-el-rol-del-inmobiliario-cotizado-en-las-carteras%2F",
+          "image": {
+            "alt": "20220309_reits_el-rol_del_inmobiliario_cotizado_en_las_carteras_janus_henderson_fundspeople.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/7d71b0b1-8bd1-48aa-8b63-ce4a7006491d_20220309_reits_el-ro.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "DATA SCIENTIST (ANALISTA DE DATOS MASIVOS Y CIENTÍFICO DE DATOS)",
         "startDate": "2022-03-01",
         "finishDate": "2022-06-01",
