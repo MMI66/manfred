@@ -2243,6 +2243,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "SCRUM: Anti patrones ",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "Identificar los problemas en la metodología ágil SCRUM y descubre herramientas para detectar anti patrones y técnicas para adaptarse y comenzar a corregir el rumbo antes de que se vuelvan un problema en tu proyecto. Descubre cómo solucionar estos problemas por usar esta metodología cuando no es suficiente para gestionar tu proyecto.",
+          "URL": "https://www.linkedin.com/learning/scrum-anti-patrones",
+          "image": {
+            "alt": "20210820_scrum_anti_patrones_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/502471d5-ac3c-4745-ac73-8d94eeb82c5c_20210820_scrum_anti_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
