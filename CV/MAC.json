@@ -1115,7 +1115,19 @@
             "type": "technology"
           },
           {
+            "name": "AWS-Admin",
+            "type": "technology"
+          },
+          {
+            "name": "AWS-User",
+            "type": "technology"
+          },
+          {
             "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
             "type": "technology"
           },
           {
