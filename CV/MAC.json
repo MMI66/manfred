@@ -2045,6 +2045,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Desarrollo ágil de software",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "El enfoque ágil y su interés por la entrega y la mejora continua, la colaboración y la apertura al cambio puede ayudar a que las empresas y los equipos optimicen tanto su productividad como la calidad de sus productos. En este curso, vamos a aprender los fundamentos de ágil para desarrolladores de software, así como las razones que hacen único a este planteamiento de la gestión de proyectos dentro del mundo del software. Vamos a explorar los principios de la filosofía Agile, así como sus implementaciones, tales como Scrum y la programación extrema, y vamos a ver ejemplos prácticos que reforzarán los conceptos que te explicamos en el curso.",
+          "URL": "https://www.linkedin.com/learning/desarrollo-agil-de-software",
+          "image": {
+            "alt": "20210818_desarrollo_agil_de_software_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/58802bae-d658-45d9-9f39-e21ebcb981f5_20210818_desarrollo_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
