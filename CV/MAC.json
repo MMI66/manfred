@@ -1655,6 +1655,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Azure para investigadores, parte 1: Introducción a la informática en la nube",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Azure para investigadores, parte 1: Introducción a la informática en la nube.\n\nRiguroso Programa de Formación Continuada en Azure y Microsoft.",
+          "URL": "https://docs.microsoft.com/es-es/users/marcoantoniogonzalez-6929/",
+          "image": {
+            "alt": "20220528_azure_para_investigadores_parte_introduccion_a_la_informatica_en_la_nube_microsoft.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/3acea311-d470-49af-b821-973d0b717745_20220528_azure_para_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Descripción de los componentes principales de la arquitectura de Azure",
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
