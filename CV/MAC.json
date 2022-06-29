@@ -1935,6 +1935,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Desing Thinking: Inteligencia de datos",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Linkedin Learning",
+          "description": "La inteligencia de datos, dentro del marco de la metodología design thinking, puede ayudar a que tus proyectos basados en recopilar y analizar gran cantidad de datos tengan más valor para tu empresa y tus clientes, ahorrando tiempo y dinero en su ejecución. Entiende por qué esta metodología de trabajo estimula el proceso creativo, el pensamiento lateral, el trabajo colaborativo y la resolución creativa de problemas, y cómo y por qué es el futuro de la producción y el análisis de datos. Finalmente, aprende a aplicarlo con éxito, paso a paso y de forma práctica, para que sea eficaz según tus propias necesidades.",
+          "URL": "https://www.linkedin.com/learning/design-thinking-inteligencia-de-datos",
+          "image": {
+            "alt": "20210804_desing_thinking_inteligencia_de_datos_linkedin_learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/8fcb4d5f-9249-495d-b36d-1ab00603806a_20210804_desing_thin.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "SARS-CoV-2 Protein Modeling and Dug Docking",
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
