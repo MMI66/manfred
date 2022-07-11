@@ -1301,31 +1301,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "BIG DATA I",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "ÍNDICE ICF -Generalitat de Catalunya",
-          "description": "Los contenidos son:\n1. Introducción a Big Data. La cadena de valor. Ecosistema de herramientas por Big Data.\n2. Introducción a estadística por Big Data\n3. Introducción a programación por Big Data\n4. Ingesta y preparación de datos. Infraestructura y herramientas utilizadas\n5. Procedimientos para el análisis de datos\n6. Explotación y visualización de datos\n",
-          "URL": "https://indiceonline.com/campus/login/login-image/",
-          "image": {
-            "alt": "20220601_big_data_1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/23/9af09610-d01f-4647-93a4-75c2fc64f137_20220601_big_data_1.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Abstract",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
         "name": "BIG DATA II",
         "startDate": "2022-06-01",
         "institution": {
@@ -1873,6 +1848,32 @@
           "image": {
             "alt": "eprotect-infecciones-respiratorias-agudas_open_badge.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/808a41c7-4957-4bf3-b88b-aa5ffd21f8f2_eprotect-infecciones.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "BIG DATA I",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "ÍNDICE ICF -Generalitat de Catalunya",
+          "description": "Los contenidos son:\n1. Introducción a Big Data. La cadena de valor. Ecosistema de herramientas por Big Data.\n2. Introducción a estadística por Big Data\n3. Introducción a programación por Big Data\n4. Ingesta y preparación de datos. Infraestructura y herramientas utilizadas\n5. Procedimientos para el análisis de datos\n6. Explotación y visualización de datos\n",
+          "URL": "https://indiceonline.com/campus/login/login-image/",
+          "image": {
+            "alt": "20220711_big_data_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/11/dca39352-88a7-4b99-a429-ec4324169812_20220711_big_data_1.png"
           }
         },
         "linkedCompetences": [
