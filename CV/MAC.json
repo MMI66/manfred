@@ -1836,6 +1836,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "BIG DATA I",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "ÍNDICE ICF - Generalitat de Catalunya",
+          "description": "Los contenidos son:\n1. Introducción a Big Data. La cadena de valor. Ecosistema de herramientas por Big Data.\n2. Introducción a estadística por Big Data\n3. Introducción a programación por Big Data\n4. Ingesta y preparación de datos. Infraestructura y herramientas utilizadas\n5. Procedimientos para el análisis de datos\n6. Explotación y visualización de datos",
+          "URL": "https://indiceformacion.com/index_acceso_teleformacion.php",
+          "image": {
+            "alt": "20220711_big_data_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/11/75ecac00-8a6a-413d-93cb-933e6e1d3f64_20220711_big_data_1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Curso corto de capacitación de la OMS para manejo clínico de Infección Respiratoria Aguda Grave",
